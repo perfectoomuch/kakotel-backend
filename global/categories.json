@@ -1,0 +1,38 @@
+[
+  {
+    "plural": "Квартиры, аппартаменты",
+    "singular": "Квартира, аппартамент",
+    "value": "appartaments",
+    "icon": "/res/categories/appartaments.svg"
+  },
+  {
+    "plural": "Дома, коттеджи",
+    "singular": "Дом, коттедж",
+    "value": "houses",
+    "icon": "/res/categories/houses.svg"
+  },
+  {
+    "plural": "Отели, гостиницы",
+    "singular": "Отел, гостиница",
+    "value": "hotels",
+    "icon": "/res/categories/hotels.svg"
+  },
+  {
+    "plural": "Гостевые дома",
+    "singular": "Гостевой дом",
+    "value": "guest-houses",
+    "icon": "/res/categories/guest-houses.svg"
+  },
+  {
+    "plural": "Хостелы",
+    "singular": "Хостел",
+    "value": "hostels",
+    "icon": "/res/categories/hostels.svg"
+  },
+  {
+    "plural": "Глэмпинги, базы отдыха",
+    "singular": "Глэмпинг, база отдыха",
+    "value": "recreation-centers",
+    "icon": "/res/categories/recreation-centers.svg"
+  }
+]

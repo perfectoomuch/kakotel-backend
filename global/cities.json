@@ -1,0 +1,5418 @@
+[
+  {
+    "name": "Абдурашид",
+    "value": "abdurashid"
+  },
+  {
+    "name": "Абикунимахи",
+    "value": "abikunimakhi"
+  },
+  {
+    "name": "Ачису",
+    "value": "achisu"
+  },
+  {
+    "name": "Адага",
+    "value": "adaga"
+  },
+  {
+    "name": "Аданак",
+    "value": "adanak"
+  },
+  {
+    "name": "Адиль-Янгиюрт",
+    "value": "adil_yangiyurt"
+  },
+  {
+    "name": "Адильотар",
+    "value": "adilotar"
+  },
+  {
+    "name": "Аджимажагатюрт",
+    "value": "adzhimazhagatyurt"
+  },
+  {
+    "name": "Афна",
+    "value": "afna"
+  },
+  {
+    "name": "Агачкала",
+    "value": "agachkala"
+  },
+  {
+    "name": "Аглоби",
+    "value": "aglobi"
+  },
+  {
+    "name": "Агвали",
+    "value": "agvali"
+  },
+  {
+    "name": "Айбала",
+    "value": "aibala"
+  },
+  {
+    "name": "Аймаки",
+    "value": "aimaki"
+  },
+  {
+    "name": "Аймалабек",
+    "value": "aimalabek"
+  },
+  {
+    "name": "Аймаумахи",
+    "value": "aimaumakhi"
+  },
+  {
+    "name": "Аймазамахи",
+    "value": "aimazamakhi"
+  },
+  {
+    "name": "Айникаб",
+    "value": "ainikab"
+  },
+  {
+    "name": "Айникабмахи",
+    "value": "ainikabmakhi"
+  },
+  {
+    "name": "Айнурбимахи",
+    "value": "ainurbimakhi"
+  },
+  {
+    "name": "Айсалакак",
+    "value": "aisalakak"
+  },
+  {
+    "name": "Акайталай",
+    "value": "akaitalai"
+  },
+  {
+    "name": "Акаро",
+    "value": "akaro"
+  },
+  {
+    "name": "Акбулатюрт",
+    "value": "akbulatyurt"
+  },
+  {
+    "name": "Акды",
+    "value": "akdi"
+  },
+  {
+    "name": "Ахалчи",
+    "value": "akhalchi"
+  },
+  {
+    "name": "Ахар",
+    "value": "akhar"
+  },
+  {
+    "name": "Ахмедкент",
+    "value": "akhmedkent"
+  },
+  {
+    "name": "Ахнада",
+    "value": "akhnada"
+  },
+  {
+    "name": "Ахты",
+    "value": "akhti"
+  },
+  {
+    "name": "Акка",
+    "value": "akka"
+  },
+  {
+    "name": "Акнада",
+    "value": "aknada"
+  },
+  {
+    "name": "Аксай",
+    "value": "aksai"
+  },
+  {
+    "name": "Акуша",
+    "value": "akusha"
+  },
+  {
+    "name": "Акушали",
+    "value": "akushali"
+  },
+  {
+    "name": "Алак",
+    "value": "alak"
+  },
+  {
+    "name": "Альбурикент",
+    "value": "alburikent"
+  },
+  {
+    "name": "Алчуниб",
+    "value": "alchunib"
+  },
+  {
+    "name": "Александрийская",
+    "value": "aleksandriiskaya"
+  },
+  {
+    "name": "Александро-Невское",
+    "value": "aleksandro_nevskoe"
+  },
+  {
+    "name": "Алиханмахи",
+    "value": "alikhanmakhi"
+  },
+  {
+    "name": "Алкадар",
+    "value": "alkadar"
+  },
+  {
+    "name": "Алхаджикент",
+    "value": "alkhadzhikent"
+  },
+  {
+    "name": "Алхулакакияц",
+    "value": "alkhulakakiyats"
+  },
+  {
+    "name": "Аллате",
+    "value": "allate"
+  },
+  {
+    "name": "Алмак",
+    "value": "almak"
+  },
+  {
+    "name": "Алмало",
+    "value": "almalo"
+  },
+  {
+    "name": "Аметеркмахи",
+    "value": "ameterkmakhi"
+  },
+  {
+    "name": "Амишта",
+    "value": "amishta"
+  },
+  {
+    "name": "Амсар",
+    "value": "amsar"
+  },
+  {
+    "name": "Амуариб",
+    "value": "amuarib"
+  },
+  {
+    "name": "Амух",
+    "value": "amukh"
+  },
+  {
+    "name": "Амузги",
+    "value": "amuzgi"
+  },
+  {
+    "name": "Анчих",
+    "value": "anchikh"
+  },
+  {
+    "name": "Анди",
+    "value": "andi"
+  },
+  {
+    "name": "Андых",
+    "value": "andikh"
+  },
+  {
+    "name": "Анджага",
+    "value": "andzhaga"
+  },
+  {
+    "name": "Ангида",
+    "value": "angida"
+  },
+  {
+    "name": "Анклух",
+    "value": "anklukh"
+  },
+  {
+    "name": "Ансалта",
+    "value": "ansalta"
+  },
+  {
+    "name": "Антиль",
+    "value": "antil"
+  },
+  {
+    "name": "Анцуда",
+    "value": "antsuda"
+  },
+  {
+    "name": "Анцух",
+    "value": "antsukh"
+  },
+  {
+    "name": "Апши",
+    "value": "apshi"
+  },
+  {
+    "name": "Араблинское",
+    "value": "arablinskoe"
+  },
+  {
+    "name": "Арачанамахи",
+    "value": "arachanamakhi"
+  },
+  {
+    "name": "Арак",
+    "value": "arak"
+  },
+  {
+    "name": "Аракани",
+    "value": "arakani"
+  },
+  {
+    "name": "Аракул",
+    "value": "arakul"
+  },
+  {
+    "name": "Аран",
+    "value": "aran"
+  },
+  {
+    "name": "Арассамахи",
+    "value": "arassamakhi"
+  },
+  {
+    "name": "Арчиб",
+    "value": "archib"
+  },
+  {
+    "name": "Арчо",
+    "value": "archo"
+  },
+  {
+    "name": "Арчуг",
+    "value": "archug"
+  },
+  {
+    "name": "Аргвани",
+    "value": "argvani"
+  },
+  {
+    "name": "Арыхкент",
+    "value": "arikhkent"
+  },
+  {
+    "name": "Аркагесген",
+    "value": "arkagesgen"
+  },
+  {
+    "name": "Аркас",
+    "value": "arkas"
+  },
+  {
+    "name": "Аркида",
+    "value": "arkida"
+  },
+  {
+    "name": "Аркит",
+    "value": "arkit"
+  },
+  {
+    "name": "Арсланбек",
+    "value": "arslanbek"
+  },
+  {
+    "name": "Артлух",
+    "value": "artlukh"
+  },
+  {
+    "name": "Асах",
+    "value": "asakh"
+  },
+  {
+    "name": "Аша",
+    "value": "asha"
+  },
+  {
+    "name": "Ашага-Архит",
+    "value": "ashaga_arkhit"
+  },
+  {
+    "name": "Ашага-Ярак",
+    "value": "ashaga_yarak"
+  },
+  {
+    "name": "Ашага-Захит",
+    "value": "ashaga_zakhit"
+  },
+  {
+    "name": "Ашали",
+    "value": "ashali"
+  },
+  {
+    "name": "Ашар",
+    "value": "ashar"
+  },
+  {
+    "name": "Ашильта",
+    "value": "ashilta"
+  },
+  {
+    "name": "Ашино",
+    "value": "ashino"
+  },
+  {
+    "name": "Ашты",
+    "value": "ashti"
+  },
+  {
+    "name": "Аспарай",
+    "value": "asparai"
+  },
+  {
+    "name": "Ассаб",
+    "value": "assab"
+  },
+  {
+    "name": "Атайтюбе",
+    "value": "ataityube"
+  },
+  {
+    "name": "Атланаул",
+    "value": "atlanaul"
+  },
+  {
+    "name": "Атрик",
+    "value": "atrik"
+  },
+  {
+    "name": "Ацербари",
+    "value": "atserbari"
+  },
+  {
+    "name": "Авадан",
+    "value": "avadan"
+  },
+  {
+    "name": "Аверьяновка",
+    "value": "averyanovka"
+  },
+  {
+    "name": "Аяларх",
+    "value": "ayalarkh"
+  },
+  {
+    "name": "Аялизимахи",
+    "value": "ayalizimakhi"
+  },
+  {
+    "name": "Аямахи",
+    "value": "ayamakhi"
+  },
+  {
+    "name": "Аяцимахи",
+    "value": "ayatsimakhi"
+  },
+  {
+    "name": "Азадоглы",
+    "value": "azadogli"
+  },
+  {
+    "name": "Бабаюрт",
+    "value": "babayurt"
+  },
+  {
+    "name": "Багикла",
+    "value": "bagikla"
+  },
+  {
+    "name": "Багинуб",
+    "value": "baginub"
+  },
+  {
+    "name": "Байкатмахи",
+    "value": "baikatmakhi"
+  },
+  {
+    "name": "Байрамаул",
+    "value": "bairamaul"
+  },
+  {
+    "name": "Баитль",
+    "value": "baitl"
+  },
+  {
+    "name": "Бахмахи",
+    "value": "bakhmakhi"
+  },
+  {
+    "name": "Бахроко",
+    "value": "bakhroko"
+  },
+  {
+    "name": "Бакни",
+    "value": "bakni"
+  },
+  {
+    "name": "Баку",
+    "value": "baku"
+  },
+  {
+    "name": "Балахани",
+    "value": "balakhani"
+  },
+  {
+    "name": "Балхар",
+    "value": "balkhar"
+  },
+  {
+    "name": "Балтамахи",
+    "value": "baltamakhi"
+  },
+  {
+    "name": "Балуджа",
+    "value": "baludzha"
+  },
+  {
+    "name": "Бамматюрт",
+    "value": "bammatyurt"
+  },
+  {
+    "name": "Банайюрт",
+    "value": "banaiyurt"
+  },
+  {
+    "name": "Барчхойотар",
+    "value": "barchkhoiotar"
+  },
+  {
+    "name": "Бархакент",
+    "value": "barkhakent"
+  },
+  {
+    "name": "Барнаб",
+    "value": "barnab"
+  },
+  {
+    "name": "Баршамай",
+    "value": "barshamai"
+  },
+  {
+    "name": "Барзан",
+    "value": "barzan"
+  },
+  {
+    "name": "Бащ",
+    "value": "bashch"
+  },
+  {
+    "name": "Башлыкент",
+    "value": "bashlikent"
+  },
+  {
+    "name": "Бата",
+    "value": "bata"
+  },
+  {
+    "name": "Батлаич",
+    "value": "batlaich"
+  },
+  {
+    "name": "Бацада",
+    "value": "batsada"
+  },
+  {
+    "name": "Бацикварих",
+    "value": "batsikvarikh"
+  },
+  {
+    "name": "Бавларгол",
+    "value": "bavlargol"
+  },
+  {
+    "name": "Бавтугай",
+    "value": "bavtugai"
+  },
+  {
+    "name": "Бажлук",
+    "value": "bazhluk"
+  },
+  {
+    "name": "Бедюк",
+    "value": "bedyuk"
+  },
+  {
+    "name": "Бехалатль",
+    "value": "bekhalatl"
+  },
+  {
+    "name": "Белиджи",
+    "value": "belidzhi"
+  },
+  {
+    "name": "Бергеинаи",
+    "value": "bergeinai"
+  },
+  {
+    "name": "Берикей",
+    "value": "berikei"
+  },
+  {
+    "name": "Бетельда",
+    "value": "betelda"
+  },
+  {
+    "name": "Бетли",
+    "value": "betli"
+  },
+  {
+    "name": "Бежта",
+    "value": "bezhta"
+  },
+  {
+    "name": "Бичалича",
+    "value": "bichalicha"
+  },
+  {
+    "name": "Бильгади",
+    "value": "bilgadi"
+  },
+  {
+    "name": "Богатыревка",
+    "value": "bogatirevka"
+  },
+  {
+    "name": "Большая Арешевка",
+    "value": "bolshaya_areshevka"
+  },
+  {
+    "name": "Большебредихинское",
+    "value": "bolshebredikhinskoe"
+  },
+  {
+    "name": "Большекозыревское",
+    "value": "bolshekozirevskoe"
+  },
+  {
+    "name": "Большезадоевское",
+    "value": "bolshezadoevskoe"
+  },
+  {
+    "name": "Бондареновское",
+    "value": "bondarenovskoe"
+  },
+  {
+    "name": "Борагангечув",
+    "value": "boragangechuv"
+  },
+  {
+    "name": "Борч",
+    "value": "borch"
+  },
+  {
+    "name": "Боташюрт",
+    "value": "botashyurt"
+  },
+  {
+    "name": "Ботаюрт",
+    "value": "botayurt"
+  },
+  {
+    "name": "Ботлих",
+    "value": "botlikh"
+  },
+  {
+    "name": "Брянск",
+    "value": "bryansk"
+  },
+  {
+    "name": "Буглен",
+    "value": "buglen"
+  },
+  {
+    "name": "Буйнакск",
+    "value": "buinaksk"
+  },
+  {
+    "name": "Бухты",
+    "value": "bukhti"
+  },
+  {
+    "name": "Буккамахи",
+    "value": "bukkamakhi"
+  },
+  {
+    "name": "Булух",
+    "value": "bulukh"
+  },
+  {
+    "name": "Бурдеки",
+    "value": "burdeki"
+  },
+  {
+    "name": "Бурганкент",
+    "value": "burgankent"
+  },
+  {
+    "name": "Бургимакмахи",
+    "value": "burgimakmakhi"
+  },
+  {
+    "name": "Бурхимахи",
+    "value": "burkhimakhi"
+  },
+  {
+    "name": "Буркихан",
+    "value": "burkikhan"
+  },
+  {
+    "name": "Буршаг",
+    "value": "burshag"
+  },
+  {
+    "name": "Бурши",
+    "value": "burshi"
+  },
+  {
+    "name": "Буртанимахи",
+    "value": "burtanimakhi"
+  },
+  {
+    "name": "Буртунай",
+    "value": "burtunai"
+  },
+  {
+    "name": "Бурумбай",
+    "value": "burumbai"
+  },
+  {
+    "name": "Бускри",
+    "value": "buskri"
+  },
+  {
+    "name": "Бут-Казмаляр",
+    "value": "but_kazmalyar"
+  },
+  {
+    "name": "Бутри",
+    "value": "butri"
+  },
+  {
+    "name": "Буцра",
+    "value": "butsra"
+  },
+  {
+    "name": "Бутуш",
+    "value": "butush"
+  },
+  {
+    "name": "Чабанмахи",
+    "value": "chabanmakhi"
+  },
+  {
+    "name": "Чабазимахи",
+    "value": "chabazimakhi"
+  },
+  {
+    "name": "Чачлибий",
+    "value": "chachlibii"
+  },
+  {
+    "name": "Чадаколоб",
+    "value": "chadakolob"
+  },
+  {
+    "name": "Чадыкмахи",
+    "value": "chadikmakhi"
+  },
+  {
+    "name": "Чадода",
+    "value": "chadoda"
+  },
+  {
+    "name": "Чагаротар",
+    "value": "chagarotar"
+  },
+  {
+    "name": "Чагни",
+    "value": "chagni"
+  },
+  {
+    "name": "Чакал",
+    "value": "chakal"
+  },
+  {
+    "name": "Чахдикна",
+    "value": "chakhdikna"
+  },
+  {
+    "name": "Чахимахи",
+    "value": "chakhimakhi"
+  },
+  {
+    "name": "Чалда",
+    "value": "chalda"
+  },
+  {
+    "name": "Чало",
+    "value": "chalo"
+  },
+  {
+    "name": "Чалях",
+    "value": "chalyakh"
+  },
+  {
+    "name": "Чанаб",
+    "value": "chanab"
+  },
+  {
+    "name": "Чанкаламахи",
+    "value": "chankalamakhi"
+  },
+  {
+    "name": "Чанко",
+    "value": "chanko"
+  },
+  {
+    "name": "Чапаево",
+    "value": "chapaevo"
+  },
+  {
+    "name": "Чаравали",
+    "value": "charavali"
+  },
+  {
+    "name": "Чарода",
+    "value": "charoda"
+  },
+  {
+    "name": "Ччихан",
+    "value": "chchikhan"
+  },
+  {
+    "name": "Черняевка",
+    "value": "chernyaevka"
+  },
+  {
+    "name": "Червленные Буруны",
+    "value": "chervlennie_buruni"
+  },
+  {
+    "name": "Чибагны",
+    "value": "chibagni"
+  },
+  {
+    "name": "Чичелау",
+    "value": "chichelau"
+  },
+  {
+    "name": "Чилда",
+    "value": "childa"
+  },
+  {
+    "name": "Чильдаб",
+    "value": "childab"
+  },
+  {
+    "name": "Чинар",
+    "value": "chinar"
+  },
+  {
+    "name": "Чинимахи",
+    "value": "chinimakhi"
+  },
+  {
+    "name": "Чираг",
+    "value": "chirag"
+  },
+  {
+    "name": "Чирката",
+    "value": "chirkata"
+  },
+  {
+    "name": "Чиркей",
+    "value": "chirkei"
+  },
+  {
+    "name": "Чишили",
+    "value": "chishili"
+  },
+  {
+    "name": "Читаб",
+    "value": "chitab"
+  },
+  {
+    "name": "Читль",
+    "value": "chitl"
+  },
+  {
+    "name": "Читур",
+    "value": "chitur"
+  },
+  {
+    "name": "Чох",
+    "value": "chokh"
+  },
+  {
+    "name": "Чондотль",
+    "value": "chondotl"
+  },
+  {
+    "name": "Чонтаул",
+    "value": "chontaul"
+  },
+  {
+    "name": "Чорода",
+    "value": "choroda"
+  },
+  {
+    "name": "Чухан",
+    "value": "chukhan"
+  },
+  {
+    "name": "Чукна",
+    "value": "chukna"
+  },
+  {
+    "name": "Чулак",
+    "value": "chulak"
+  },
+  {
+    "name": "Чумбар-Арка",
+    "value": "chumbar_arka"
+  },
+  {
+    "name": "Чумли",
+    "value": "chumli"
+  },
+  {
+    "name": "Чуни",
+    "value": "chuni"
+  },
+  {
+    "name": "Чуниб",
+    "value": "chunib"
+  },
+  {
+    "name": "Чурдаф",
+    "value": "churdaf"
+  },
+  {
+    "name": "Чуртах",
+    "value": "churtakh"
+  },
+  {
+    "name": "Чуручабалу",
+    "value": "churuchabalu"
+  },
+  {
+    "name": "Чуткан",
+    "value": "chutkan"
+  },
+  {
+    "name": "Чувалкутан",
+    "value": "chuvalkutan"
+  },
+  {
+    "name": "Чувек",
+    "value": "chuvek"
+  },
+  {
+    "name": "Чвадаб",
+    "value": "chvadab"
+  },
+  {
+    "name": "Дабиш",
+    "value": "dabish"
+  },
+  {
+    "name": "Дагбаш",
+    "value": "dagbash"
+  },
+  {
+    "name": "Дагестанские Огни",
+    "value": "dagestanskie_ogni"
+  },
+  {
+    "name": "Дагни",
+    "value": "dagni"
+  },
+  {
+    "name": "Дах",
+    "value": "dakh"
+  },
+  {
+    "name": "Дахадаевка",
+    "value": "dakhadaevka"
+  },
+  {
+    "name": "Дакниса",
+    "value": "daknisa"
+  },
+  {
+    "name": "Данух",
+    "value": "danukh"
+  },
+  {
+    "name": "Дарада",
+    "value": "darada"
+  },
+  {
+    "name": "Даркуш-Казмаляр",
+    "value": "darkush_kazmalyar"
+  },
+  {
+    "name": "Дарваг",
+    "value": "darvag"
+  },
+  {
+    "name": "Датуна",
+    "value": "datuna"
+  },
+  {
+    "name": "Дегва",
+    "value": "degva"
+  },
+  {
+    "name": "Дейбук",
+    "value": "deibuk"
+  },
+  {
+    "name": "Деличобан",
+    "value": "delichoban"
+  },
+  {
+    "name": "Дербент",
+    "value": "derbent"
+  },
+  {
+    "name": "Дибгалик",
+    "value": "dibgalik"
+  },
+  {
+    "name": "Дибгаши",
+    "value": "dibgashi"
+  },
+  {
+    "name": "Дылым",
+    "value": "dilim"
+  },
+  {
+    "name": "Димиралазда",
+    "value": "dimiralazda"
+  },
+  {
+    "name": "Дирбакмахи",
+    "value": "dirbakmakhi"
+  },
+  {
+    "name": "Дирихазра",
+    "value": "dirikhazra"
+  },
+  {
+    "name": "Дитуншимахи",
+    "value": "ditunshimakhi"
+  },
+  {
+    "name": "Доргели",
+    "value": "dorgeli"
+  },
+  {
+    "name": "Доронуб",
+    "value": "doronub"
+  },
+  {
+    "name": "Друштул",
+    "value": "drushtul"
+  },
+  {
+    "name": "Дружба",
+    "value": "druzhba"
+  },
+  {
+    "name": "Дуакар",
+    "value": "duakar"
+  },
+  {
+    "name": "Дубки",
+    "value": "dubki"
+  },
+  {
+    "name": "Дубримахи",
+    "value": "dubrimakhi"
+  },
+  {
+    "name": "Дулдук",
+    "value": "dulduk"
+  },
+  {
+    "name": "Думурхиль",
+    "value": "dumurkhil"
+  },
+  {
+    "name": "Дуранги",
+    "value": "durangi"
+  },
+  {
+    "name": "Дуреги",
+    "value": "duregi"
+  },
+  {
+    "name": "Дусрах",
+    "value": "dusrakh"
+  },
+  {
+    "name": "Дюбек",
+    "value": "dyubek"
+  },
+  {
+    "name": "Дзержинское",
+    "value": "dzerzhinskoe"
+  },
+  {
+    "name": "Джалатури",
+    "value": "dzhalaturi"
+  },
+  {
+    "name": "Джалган",
+    "value": "dzhalgan"
+  },
+  {
+    "name": "Джанга",
+    "value": "dzhanga"
+  },
+  {
+    "name": "Джангамахи",
+    "value": "dzhangamakhi"
+  },
+  {
+    "name": "Джаванкент",
+    "value": "dzhavankent"
+  },
+  {
+    "name": "Джавгат",
+    "value": "dzhavgat"
+  },
+  {
+    "name": "Джемикент",
+    "value": "dzhemikent"
+  },
+  {
+    "name": "Джибахни,",
+    "value": "dzhibakhni,"
+  },
+  {
+    "name": "Джиг-Джиг",
+    "value": "dzhig_dzhig"
+  },
+  {
+    "name": "Джигия",
+    "value": "dzhigiya"
+  },
+  {
+    "name": "Джилихур",
+    "value": "dzhilikhur"
+  },
+  {
+    "name": "Джинаби",
+    "value": "dzhinabi"
+  },
+  {
+    "name": "Джиных",
+    "value": "dzhinikh"
+  },
+  {
+    "name": "Джирабачи",
+    "value": "dzhirabachi"
+  },
+  {
+    "name": "Джугут",
+    "value": "dzhugut"
+  },
+  {
+    "name": "Джульджаг",
+    "value": "dzhuldzhag"
+  },
+  {
+    "name": "Джули",
+    "value": "dzhuli"
+  },
+  {
+    "name": "Джурмачи",
+    "value": "dzhurmachi"
+  },
+  {
+    "name": "Дзилебки",
+    "value": "dzilebki"
+  },
+  {
+    "name": "Эбдалая",
+    "value": "ebdalaya"
+  },
+  {
+    "name": "Эбута",
+    "value": "ebuta"
+  },
+  {
+    "name": "Эчеда",
+    "value": "echeda"
+  },
+  {
+    "name": "Эдиге",
+    "value": "edige"
+  },
+  {
+    "name": "Элладах",
+    "value": "elladakh"
+  },
+  {
+    "name": "Эльмеликол",
+    "value": "elmelikol"
+  },
+  {
+    "name": "Эминхюр",
+    "value": "eminkhyur"
+  },
+  {
+    "name": "Эндирей",
+    "value": "endirei"
+  },
+  {
+    "name": "Энгельский",
+    "value": "engelskii"
+  },
+  {
+    "name": "Эрпели",
+    "value": "erpeli"
+  },
+  {
+    "name": "Фий",
+    "value": "fii"
+  },
+  {
+    "name": "Филидзах",
+    "value": "filidzakh"
+  },
+  {
+    "name": "Филя",
+    "value": "filya"
+  },
+  {
+    "name": "Фите",
+    "value": "fite"
+  },
+  {
+    "name": "Фурдаг",
+    "value": "furdag"
+  },
+  {
+    "name": "Фуру",
+    "value": "furu"
+  },
+  {
+    "name": "Габан",
+    "value": "gaban"
+  },
+  {
+    "name": "Гадаичи",
+    "value": "gadaichi"
+  },
+  {
+    "name": "Гадари",
+    "value": "gadari"
+  },
+  {
+    "name": "Гадири",
+    "value": "gadiri"
+  },
+  {
+    "name": "Гаджиева",
+    "value": "gadzhieva"
+  },
+  {
+    "name": "Гагатли",
+    "value": "gagatli"
+  },
+  {
+    "name": "Гакко",
+    "value": "gakko"
+  },
+  {
+    "name": "Галивачи",
+    "value": "galivachi"
+  },
+  {
+    "name": "Гамарда",
+    "value": "gamarda"
+  },
+  {
+    "name": "Гамиях",
+    "value": "gamiyakh"
+  },
+  {
+    "name": "Гамсутль",
+    "value": "gamsutl"
+  },
+  {
+    "name": "Гандарамахи",
+    "value": "gandaramakhi"
+  },
+  {
+    "name": "Гапшима",
+    "value": "gapshima"
+  },
+  {
+    "name": "Гапцах",
+    "value": "gaptsakh"
+  },
+  {
+    "name": "Гараколоб",
+    "value": "garakolob"
+  },
+  {
+    "name": "Гарбутль",
+    "value": "garbutl"
+  },
+  {
+    "name": "Гариг",
+    "value": "garig"
+  },
+  {
+    "name": "Гаша",
+    "value": "gasha"
+  },
+  {
+    "name": "Гасих",
+    "value": "gasikh"
+  },
+  {
+    "name": "Гацалух",
+    "value": "gatsalukh"
+  },
+  {
+    "name": "Газия",
+    "value": "gaziya"
+  },
+  {
+    "name": "Гдым",
+    "value": "gdim"
+  },
+  {
+    "name": "Гдынк",
+    "value": "gdink"
+  },
+  {
+    "name": "Геба",
+    "value": "geba"
+  },
+  {
+    "name": "Геджух",
+    "value": "gedzhukh"
+  },
+  {
+    "name": "Геинаумаки",
+    "value": "geinaumaki"
+  },
+  {
+    "name": "Гельбах",
+    "value": "gelbakh"
+  },
+  {
+    "name": "Гельхен",
+    "value": "gelkhen"
+  },
+  {
+    "name": "Гельмец",
+    "value": "gelmets"
+  },
+  {
+    "name": "Геметюбе",
+    "value": "gemetyube"
+  },
+  {
+    "name": "Геназох",
+    "value": "genazokh"
+  },
+  {
+    "name": "Гендух",
+    "value": "gendukh"
+  },
+  {
+    "name": "Генеколоб",
+    "value": "genekolob"
+  },
+  {
+    "name": "Геницуриб",
+    "value": "genitsurib"
+  },
+  {
+    "name": "Гента",
+    "value": "genta"
+  },
+  {
+    "name": "Генух",
+    "value": "genukh"
+  },
+  {
+    "name": "Генжеаул",
+    "value": "genzheaul"
+  },
+  {
+    "name": "Герейхановское",
+    "value": "gereikhanovskoe"
+  },
+  {
+    "name": "Герель",
+    "value": "gerel"
+  },
+  {
+    "name": "Герга",
+    "value": "gerga"
+  },
+  {
+    "name": "Гергебиль",
+    "value": "gergebil"
+  },
+  {
+    "name": "Гергентала",
+    "value": "gergentala"
+  },
+  {
+    "name": "Герхмахи",
+    "value": "gerkhmakhi"
+  },
+  {
+    "name": "Герменчик",
+    "value": "germenchik"
+  },
+  {
+    "name": "Гертма",
+    "value": "gertma"
+  },
+  {
+    "name": "Гезучали",
+    "value": "gezuchali"
+  },
+  {
+    "name": "Гидиб",
+    "value": "gidib"
+  },
+  {
+    "name": "Гигих",
+    "value": "gigikh"
+  },
+  {
+    "name": "Гилиб",
+    "value": "gilib"
+  },
+  {
+    "name": "Гильяр",
+    "value": "gilyar"
+  },
+  {
+    "name": "Гимерсо",
+    "value": "gimerso"
+  },
+  {
+    "name": "Гимры",
+    "value": "gimri"
+  },
+  {
+    "name": "Гиндиб",
+    "value": "gindib"
+  },
+  {
+    "name": "Гиничутль",
+    "value": "ginichutl"
+  },
+  {
+    "name": "Гинта",
+    "value": "ginta"
+  },
+  {
+    "name": "Гисик",
+    "value": "gisik"
+  },
+  {
+    "name": "Гиягарамахи",
+    "value": "giyagaramakhi"
+  },
+  {
+    "name": "Гоа",
+    "value": "goa"
+  },
+  {
+    "name": "Гоаб",
+    "value": "goab"
+  },
+  {
+    "name": "Гочада",
+    "value": "gochada"
+  },
+  {
+    "name": "Гочоб",
+    "value": "gochob"
+  },
+  {
+    "name": "Гогаз",
+    "value": "gogaz"
+  },
+  {
+    "name": "Гоготль",
+    "value": "gogotl"
+  },
+  {
+    "name": "Гоксув",
+    "value": "goksuv"
+  },
+  {
+    "name": "Голотль",
+    "value": "golotl"
+  },
+  {
+    "name": "Гонода",
+    "value": "gonoda"
+  },
+  {
+    "name": "Гонох",
+    "value": "gonokh"
+  },
+  {
+    "name": "Гонтлоб",
+    "value": "gontlob"
+  },
+  {
+    "name": "Гоор",
+    "value": "goor"
+  },
+  {
+    "name": "Гоор-Хиндах",
+    "value": "goor_khindakh"
+  },
+  {
+    "name": "Гортколо",
+    "value": "gortkolo"
+  },
+  {
+    "name": "Гортноб",
+    "value": "gortnob"
+  },
+  {
+    "name": "Горячий Источник",
+    "value": "goryachii_istochnik"
+  },
+  {
+    "name": "Гостала",
+    "value": "gostala"
+  },
+  {
+    "name": "Гоцоб",
+    "value": "gotsob"
+  },
+  {
+    "name": "Говкра",
+    "value": "govkra"
+  },
+  {
+    "name": "Гозолоколо",
+    "value": "gozolokolo"
+  },
+  {
+    "name": "Гра",
+    "value": "gra"
+  },
+  {
+    "name": "Гребенской Мост",
+    "value": "grebenskoi_most"
+  },
+  {
+    "name": "Грузинское",
+    "value": "gruzinskoe"
+  },
+  {
+    "name": "Губден",
+    "value": "gubden"
+  },
+  {
+    "name": "Гуйми",
+    "value": "guimi"
+  },
+  {
+    "name": "Гуладтымахи",
+    "value": "guladtimakhi"
+  },
+  {
+    "name": "Гульды",
+    "value": "guldi"
+  },
+  {
+    "name": "Гулебки",
+    "value": "gulebki"
+  },
+  {
+    "name": "Гулли",
+    "value": "gulli"
+  },
+  {
+    "name": "Гуми",
+    "value": "gumi"
+  },
+  {
+    "name": "Гумрамахи",
+    "value": "gumramakhi"
+  },
+  {
+    "name": "Гунакари",
+    "value": "gunakari"
+  },
+  {
+    "name": "Гундучи",
+    "value": "gunduchi"
+  },
+  {
+    "name": "Гуни",
+    "value": "guni"
+  },
+  {
+    "name": "Гуниб",
+    "value": "gunib"
+  },
+  {
+    "name": "Гунха",
+    "value": "gunkha"
+  },
+  {
+    "name": "Гуннамахи",
+    "value": "gunnamakhi"
+  },
+  {
+    "name": "Гунух",
+    "value": "gunukh"
+  },
+  {
+    "name": "Гунзиб",
+    "value": "gunzib"
+  },
+  {
+    "name": "Гурбуки",
+    "value": "gurbuki"
+  },
+  {
+    "name": "Гургумахи",
+    "value": "gurgumakhi"
+  },
+  {
+    "name": "Гурик",
+    "value": "gurik"
+  },
+  {
+    "name": "Гурхун",
+    "value": "gurkhun"
+  },
+  {
+    "name": "Гущи",
+    "value": "gushchi"
+  },
+  {
+    "name": "Гутатли",
+    "value": "gutatli"
+  },
+  {
+    "name": "Гуве",
+    "value": "guve"
+  },
+  {
+    "name": "Гувлиг",
+    "value": "guvlig"
+  },
+  {
+    "name": "Гваде",
+    "value": "gvade"
+  },
+  {
+    "name": "Гведыш",
+    "value": "gvedish"
+  },
+  {
+    "name": "Гвиначи",
+    "value": "gvinachi"
+  },
+  {
+    "name": "Гюгряг",
+    "value": "gyugryag"
+  },
+  {
+    "name": "Ибрагимотар",
+    "value": "ibragimotar"
+  },
+  {
+    "name": "Иче",
+    "value": "iche"
+  },
+  {
+    "name": "Ичичали",
+    "value": "ichichali"
+  },
+  {
+    "name": "Ичин",
+    "value": "ichin"
+  },
+  {
+    "name": "Игали",
+    "value": "igali"
+  },
+  {
+    "name": "Игор",
+    "value": "igor"
+  },
+  {
+    "name": "Игоцатли",
+    "value": "igotsatli"
+  },
+  {
+    "name": "Играх",
+    "value": "igrakh"
+  },
+  {
+    "name": "Иха",
+    "value": "ikha"
+  },
+  {
+    "name": "Ихрек",
+    "value": "ikhrek"
+  },
+  {
+    "name": "Икра",
+    "value": "ikra"
+  },
+  {
+    "name": "имени Дахадаева",
+    "value": "imeni_dakhadaeva"
+  },
+  {
+    "name": "имени Горького",
+    "value": "imeni_gorkogo"
+  },
+  {
+    "name": "имени Ким",
+    "value": "imeni_kim"
+  },
+  {
+    "name": "имени Кирова",
+    "value": "imeni_kirova"
+  },
+  {
+    "name": "имени Ленина",
+    "value": "imeni_lenina"
+  },
+  {
+    "name": "имени Максима Горького",
+    "value": "imeni_maksima_gorkogo"
+  },
+  {
+    "name": "имени Мичурина",
+    "value": "imeni_michurina"
+  },
+  {
+    "name": "имени Шаумяна",
+    "value": "imeni_shaumyana"
+  },
+  {
+    "name": "Иммунное",
+    "value": "immunnoe"
+  },
+  {
+    "name": "Инчха",
+    "value": "inchkha"
+  },
+  {
+    "name": "Инчхе",
+    "value": "inchkhe"
+  },
+  {
+    "name": "Индира",
+    "value": "indira"
+  },
+  {
+    "name": "Ингердах",
+    "value": "ingerdakh"
+  },
+  {
+    "name": "Ингиши",
+    "value": "ingishi"
+  },
+  {
+    "name": "Иникуналамахи",
+    "value": "inikunalamakhi"
+  },
+  {
+    "name": "Иниша",
+    "value": "inisha"
+  },
+  {
+    "name": "Инхоквари",
+    "value": "inkhokvari"
+  },
+  {
+    "name": "Инкучимахи",
+    "value": "inkuchimakhi"
+  },
+  {
+    "name": "Инквалита",
+    "value": "inkvalita"
+  },
+  {
+    "name": "Инца",
+    "value": "intsa"
+  },
+  {
+    "name": "Инзимахи",
+    "value": "inzimakhi"
+  },
+  {
+    "name": "Ипута",
+    "value": "iputa"
+  },
+  {
+    "name": "Ираги",
+    "value": "iragi"
+  },
+  {
+    "name": "Ираки",
+    "value": "iraki"
+  },
+  {
+    "name": "Ирганай",
+    "value": "irganai"
+  },
+  {
+    "name": "Иргин",
+    "value": "irgin"
+  },
+  {
+    "name": "Ириб",
+    "value": "irib"
+  },
+  {
+    "name": "Иричи",
+    "value": "irichi"
+  },
+  {
+    "name": "Иштибури",
+    "value": "ishtiburi"
+  },
+  {
+    "name": "Иссо",
+    "value": "isso"
+  },
+  {
+    "name": "Ицари",
+    "value": "itsari"
+  },
+  {
+    "name": "Ицирах",
+    "value": "itsirakh"
+  },
+  {
+    "name": "Изано",
+    "value": "izano"
+  },
+  {
+    "name": "Избербаш",
+    "value": "izberbash"
+  },
+  {
+    "name": "Кабас",
+    "value": "kabas"
+  },
+  {
+    "name": "Кабир-Казмаляр",
+    "value": "kabir_kazmalyar"
+  },
+  {
+    "name": "Качалай",
+    "value": "kachalai"
+  },
+  {
+    "name": "Качкилик",
+    "value": "kachkilik"
+  },
+  {
+    "name": "Каддамахи",
+    "value": "kaddamakhi"
+  },
+  {
+    "name": "Кадиркент",
+    "value": "kadirkent"
+  },
+  {
+    "name": "Кадыротар",
+    "value": "kadirotar"
+  },
+  {
+    "name": "Кафыр-Кумух",
+    "value": "kafir_kumukh"
+  },
+  {
+    "name": "Кака",
+    "value": "kaka"
+  },
+  {
+    "name": "Кака-Шура",
+    "value": "kaka_shura"
+  },
+  {
+    "name": "Какакутан",
+    "value": "kakakutan"
+  },
+  {
+    "name": "Какамахи",
+    "value": "kakamakhi"
+  },
+  {
+    "name": "Ках",
+    "value": "kakh"
+  },
+  {
+    "name": "Кахабросо",
+    "value": "kakhabroso"
+  },
+  {
+    "name": "Кахиб",
+    "value": "kakhib"
+  },
+  {
+    "name": "Какмахи",
+    "value": "kakmakhi"
+  },
+  {
+    "name": "Какри",
+    "value": "kakri"
+  },
+  {
+    "name": "Кала",
+    "value": "kala"
+  },
+  {
+    "name": "Каладжух",
+    "value": "kaladzhukh"
+  },
+  {
+    "name": "Калакаси",
+    "value": "kalakasi"
+  },
+  {
+    "name": "Калиб",
+    "value": "kalib"
+  },
+  {
+    "name": "Калининаул",
+    "value": "kalininaul"
+  },
+  {
+    "name": "Калиновка",
+    "value": "kalinovka"
+  },
+  {
+    "name": "Калкни",
+    "value": "kalkni"
+  },
+  {
+    "name": "Калтанмахи",
+    "value": "kaltanmakhi"
+  },
+  {
+    "name": "Калук",
+    "value": "kaluk"
+  },
+  {
+    "name": "Кальян",
+    "value": "kalyan"
+  },
+  {
+    "name": "Камахал",
+    "value": "kamakhal"
+  },
+  {
+    "name": "Камаша",
+    "value": "kamasha"
+  },
+  {
+    "name": "Камилух",
+    "value": "kamilukh"
+  },
+  {
+    "name": "Камкадамахи",
+    "value": "kamkadamakhi"
+  },
+  {
+    "name": "Кана",
+    "value": "kana"
+  },
+  {
+    "name": "Канасираги",
+    "value": "kanasiragi"
+  },
+  {
+    "name": "Кандаураул",
+    "value": "kandauraul"
+  },
+  {
+    "name": "Кани",
+    "value": "kani"
+  },
+  {
+    "name": "Капкайкент",
+    "value": "kapkaikent"
+  },
+  {
+    "name": "Кара",
+    "value": "kara"
+  },
+  {
+    "name": "Кара-Баглы",
+    "value": "kara_bagli"
+  },
+  {
+    "name": "Карабаглы",
+    "value": "karabagli"
+  },
+  {
+    "name": "Карабудахкент",
+    "value": "karabudakhkent"
+  },
+  {
+    "name": "Карада",
+    "value": "karada"
+  },
+  {
+    "name": "Карадаглы",
+    "value": "karadagli"
+  },
+  {
+    "name": "Карагас",
+    "value": "karagas"
+  },
+  {
+    "name": "Каракутан",
+    "value": "karakutan"
+  },
+  {
+    "name": "Каракюре",
+    "value": "karakyure"
+  },
+  {
+    "name": "Карамахи",
+    "value": "karamakhi"
+  },
+  {
+    "name": "Каранайаул",
+    "value": "karanaiaul"
+  },
+  {
+    "name": "Карануб",
+    "value": "karanub"
+  },
+  {
+    "name": "Караша",
+    "value": "karasha"
+  },
+  {
+    "name": "Карасу",
+    "value": "karasu"
+  },
+  {
+    "name": "Карата",
+    "value": "karata"
+  },
+  {
+    "name": "Каратебе",
+    "value": "karatebe"
+  },
+  {
+    "name": "Карацан",
+    "value": "karatsan"
+  },
+  {
+    "name": "Каратюбе",
+    "value": "karatyube"
+  },
+  {
+    "name": "Караямахи",
+    "value": "karayamakhi"
+  },
+  {
+    "name": "Карбучимахи",
+    "value": "karbuchimakhi"
+  },
+  {
+    "name": "Карчаг",
+    "value": "karchag"
+  },
+  {
+    "name": "Кардиб",
+    "value": "kardib"
+  },
+  {
+    "name": "Кардмахи",
+    "value": "kardmakhi"
+  },
+  {
+    "name": "Кардоновка",
+    "value": "kardonovka"
+  },
+  {
+    "name": "Карекадани",
+    "value": "karekadani"
+  },
+  {
+    "name": "Кархала",
+    "value": "karkhala"
+  },
+  {
+    "name": "Карлабко",
+    "value": "karlabko"
+  },
+  {
+    "name": "Карланюрт",
+    "value": "karlanyurt"
+  },
+  {
+    "name": "Карша",
+    "value": "karsha"
+  },
+  {
+    "name": "Карта",
+    "value": "karta"
+  },
+  {
+    "name": "Карталай",
+    "value": "kartalai"
+  },
+  {
+    "name": "Картас-Казмаляр",
+    "value": "kartas_kazmalyar"
+  },
+  {
+    "name": "Касан",
+    "value": "kasan"
+  },
+  {
+    "name": "Касаюрт",
+    "value": "kasayurt"
+  },
+  {
+    "name": "Каспийск",
+    "value": "kaspiisk"
+  },
+  {
+    "name": "Кассагумахи",
+    "value": "kassagumakhi"
+  },
+  {
+    "name": "Касумкент",
+    "value": "kasumkent"
+  },
+  {
+    "name": "Катросо",
+    "value": "katroso"
+  },
+  {
+    "name": "Кавкамахи",
+    "value": "kavkamakhi"
+  },
+  {
+    "name": "Кавказ",
+    "value": "kavkaz"
+  },
+  {
+    "name": "Кая",
+    "value": "kaya"
+  },
+  {
+    "name": "Каякент",
+    "value": "kayakent"
+  },
+  {
+    "name": "Каякентский рыбзавод №38",
+    "value": "kayakentskii_ribzavod_№38"
+  },
+  {
+    "name": "Казмааул",
+    "value": "kazmaaul"
+  },
+  {
+    "name": "Казмаляр",
+    "value": "kazmalyar"
+  },
+  {
+    "name": "Кеди",
+    "value": "kedi"
+  },
+  {
+    "name": "Кегер",
+    "value": "keger"
+  },
+  {
+    "name": "Кегерчи",
+    "value": "kegerchi"
+  },
+  {
+    "name": "Кенафный Завод",
+    "value": "kenafnii_zavod"
+  },
+  {
+    "name": "Керликент",
+    "value": "kerlikent"
+  },
+  {
+    "name": "Кесериб",
+    "value": "keserib"
+  },
+  {
+    "name": "Хабкаймахи",
+    "value": "khabkaimakhi"
+  },
+  {
+    "name": "Хадаги",
+    "value": "khadagi"
+  },
+  {
+    "name": "Хадаколоб",
+    "value": "khadakolob"
+  },
+  {
+    "name": "Хадуб",
+    "value": "khadub"
+  },
+  {
+    "name": "Хаджалмахи",
+    "value": "khadzhalmakhi"
+  },
+  {
+    "name": "Хахита",
+    "value": "khakhita"
+  },
+  {
+    "name": "Хал",
+    "value": "khal"
+  },
+  {
+    "name": "Халаг",
+    "value": "khalag"
+  },
+  {
+    "name": "Халих",
+    "value": "khalikh"
+  },
+  {
+    "name": "Халимбек-Аул",
+    "value": "khalimbek_aul"
+  },
+  {
+    "name": "Хамагиб",
+    "value": "khamagib"
+  },
+  {
+    "name": "Хамаматюрт",
+    "value": "khamamatyurt"
+  },
+  {
+    "name": "Хамар",
+    "value": "khamar"
+  },
+  {
+    "name": "Хамавюрт",
+    "value": "khamavyurt"
+  },
+  {
+    "name": "Хамзаюрт",
+    "value": "khamzayurt"
+  },
+  {
+    "name": "Ханаг",
+    "value": "khanag"
+  },
+  {
+    "name": "Ханак",
+    "value": "khanak"
+  },
+  {
+    "name": "Хандо",
+    "value": "khando"
+  },
+  {
+    "name": "Ханцкаркамахи",
+    "value": "khantskarkamakhi"
+  },
+  {
+    "name": "Хапиль",
+    "value": "khapil"
+  },
+  {
+    "name": "Хараб",
+    "value": "kharab"
+  },
+  {
+    "name": "Харачи",
+    "value": "kharachi"
+  },
+  {
+    "name": "Харада",
+    "value": "kharada"
+  },
+  {
+    "name": "Харахи",
+    "value": "kharakhi"
+  },
+  {
+    "name": "Харазма",
+    "value": "kharazma"
+  },
+  {
+    "name": "Харбук",
+    "value": "kharbuk"
+  },
+  {
+    "name": "Хариб",
+    "value": "kharib"
+  },
+  {
+    "name": "Хариколо",
+    "value": "kharikolo"
+  },
+  {
+    "name": "Хархни",
+    "value": "kharkhni"
+  },
+  {
+    "name": "Хас-Булат",
+    "value": "khas_bulat"
+  },
+  {
+    "name": "Хасакент",
+    "value": "khasakent"
+  },
+  {
+    "name": "Хасанай",
+    "value": "khasanai"
+  },
+  {
+    "name": "Хасавюрт",
+    "value": "khasavyurt"
+  },
+  {
+    "name": "Хашархота",
+    "value": "khasharkhota"
+  },
+  {
+    "name": "Хазар",
+    "value": "khazar"
+  },
+  {
+    "name": "Хажнимахи",
+    "value": "khazhnimakhi"
+  },
+  {
+    "name": "Хебатли",
+    "value": "khebatli"
+  },
+  {
+    "name": "Хебда",
+    "value": "khebda"
+  },
+  {
+    "name": "Хелетури",
+    "value": "kheleturi"
+  },
+  {
+    "name": "Хенох",
+    "value": "khenokh"
+  },
+  {
+    "name": "Хецуб",
+    "value": "khetsub"
+  },
+  {
+    "name": "Хидиб",
+    "value": "khidib"
+  },
+  {
+    "name": "Хилих",
+    "value": "khilikh"
+  },
+  {
+    "name": "Химакоро",
+    "value": "khimakoro"
+  },
+  {
+    "name": "Хиндах",
+    "value": "khindakh"
+  },
+  {
+    "name": "Хинуб",
+    "value": "khinub"
+  },
+  {
+    "name": "Хитаб",
+    "value": "khitab"
+  },
+  {
+    "name": "Хив",
+    "value": "khiv"
+  },
+  {
+    "name": "Хкем",
+    "value": "khkem"
+  },
+  {
+    "name": "Хлют",
+    "value": "khlyut"
+  },
+  {
+    "name": "Хнов",
+    "value": "khnov"
+  },
+  {
+    "name": "Хнях",
+    "value": "khnyakh"
+  },
+  {
+    "name": "Хойхи",
+    "value": "khoikhi"
+  },
+  {
+    "name": "Хойми",
+    "value": "khoimi"
+  },
+  {
+    "name": "Хонге",
+    "value": "khonge"
+  },
+  {
+    "name": "Хонох",
+    "value": "khonokh"
+  },
+  {
+    "name": "Хопор",
+    "value": "khopor"
+  },
+  {
+    "name": "Хоредж",
+    "value": "khoredzh"
+  },
+  {
+    "name": "Хорода",
+    "value": "khoroda"
+  },
+  {
+    "name": "Хорта",
+    "value": "khorta"
+  },
+  {
+    "name": "Хосрех",
+    "value": "khosrekh"
+  },
+  {
+    "name": "Хоточ",
+    "value": "khotoch"
+  },
+  {
+    "name": "Хотода",
+    "value": "khotoda"
+  },
+  {
+    "name": "Хпедж",
+    "value": "khpedzh"
+  },
+  {
+    "name": "Хпюк",
+    "value": "khpyuk"
+  },
+  {
+    "name": "Храх",
+    "value": "khrakh"
+  },
+  {
+    "name": "Хрюг",
+    "value": "khryug"
+  },
+  {
+    "name": "Хубар",
+    "value": "khubar"
+  },
+  {
+    "name": "Хучада",
+    "value": "khuchada"
+  },
+  {
+    "name": "Хучни",
+    "value": "khuchni"
+  },
+  {
+    "name": "Худиг",
+    "value": "khudig"
+  },
+  {
+    "name": "Худуц",
+    "value": "khuduts"
+  },
+  {
+    "name": "Хулисма",
+    "value": "khulisma"
+  },
+  {
+    "name": "Хуля",
+    "value": "khulya"
+  },
+  {
+    "name": "Хуна",
+    "value": "khuna"
+  },
+  {
+    "name": "Хунгия",
+    "value": "khungiya"
+  },
+  {
+    "name": "Хунзах",
+    "value": "khunzakh"
+  },
+  {
+    "name": "Хупри",
+    "value": "khupri"
+  },
+  {
+    "name": "Хурабалу",
+    "value": "khurabalu"
+  },
+  {
+    "name": "Хури",
+    "value": "khuri"
+  },
+  {
+    "name": "Хурик",
+    "value": "khurik"
+  },
+  {
+    "name": "Хурхи",
+    "value": "khurkhi"
+  },
+  {
+    "name": "Хуршни",
+    "value": "khurshni"
+  },
+  {
+    "name": "Хурух",
+    "value": "khurukh"
+  },
+  {
+    "name": "Хурукра",
+    "value": "khurukra"
+  },
+  {
+    "name": "Хушет",
+    "value": "khushet"
+  },
+  {
+    "name": "Хуштада",
+    "value": "khushtada"
+  },
+  {
+    "name": "Хустиль",
+    "value": "khustil"
+  },
+  {
+    "name": "Хути",
+    "value": "khuti"
+  },
+  {
+    "name": "Хутхул",
+    "value": "khutkhul"
+  },
+  {
+    "name": "Хутни",
+    "value": "khutni"
+  },
+  {
+    "name": "Хутрах",
+    "value": "khutrakh"
+  },
+  {
+    "name": "Хуцеевка",
+    "value": "khutseevka"
+  },
+  {
+    "name": "Хварада",
+    "value": "khvarada"
+  },
+  {
+    "name": "Хварши",
+    "value": "khvarshi"
+  },
+  {
+    "name": "Хвартикуни",
+    "value": "khvartikuni"
+  },
+  {
+    "name": "Хвередж",
+    "value": "khveredzh"
+  },
+  {
+    "name": "Хюряк",
+    "value": "khyuryak"
+  },
+  {
+    "name": "Киче",
+    "value": "kiche"
+  },
+  {
+    "name": "Кичи-Гамри",
+    "value": "kichi_gamri"
+  },
+  {
+    "name": "Кичи-Истису",
+    "value": "kichi_istisu"
+  },
+  {
+    "name": "Кидеро",
+    "value": "kidero"
+  },
+  {
+    "name": "Кикуни",
+    "value": "kikuni"
+  },
+  {
+    "name": "Килятль",
+    "value": "kilyatl"
+  },
+  {
+    "name": "Кимятли",
+    "value": "kimyatli"
+  },
+  {
+    "name": "Кина",
+    "value": "kina"
+  },
+  {
+    "name": "Кирки",
+    "value": "kirki"
+  },
+  {
+    "name": "Кироваул",
+    "value": "kirovaul"
+  },
+  {
+    "name": "Кирпичкутан",
+    "value": "kirpichkutan"
+  },
+  {
+    "name": "Кирцик",
+    "value": "kirtsik"
+  },
+  {
+    "name": "Кища",
+    "value": "kishcha"
+  },
+  {
+    "name": "Китлярта",
+    "value": "kitlyarta"
+  },
+  {
+    "name": "Кижани",
+    "value": "kizhani"
+  },
+  {
+    "name": "Кизилюрт",
+    "value": "kizilyurt"
+  },
+  {
+    "name": "Кизляр",
+    "value": "kizlyar"
+  },
+  {
+    "name": "Кизлярский",
+    "value": "kizlyarskii"
+  },
+  {
+    "name": "Кочали",
+    "value": "kochali"
+  },
+  {
+    "name": "Кочхюр",
+    "value": "kochkhyur"
+  },
+  {
+    "name": "Кочубей",
+    "value": "kochubei"
+  },
+  {
+    "name": "Кохановское",
+    "value": "kokhanovskoe"
+  },
+  {
+    "name": "Коктюбей",
+    "value": "koktyubei"
+  },
+  {
+    "name": "Коллективизатор",
+    "value": "kollektivizator"
+  },
+  {
+    "name": "Коло",
+    "value": "kolo"
+  },
+  {
+    "name": "Колоб",
+    "value": "kolob"
+  },
+  {
+    "name": "Колочоб",
+    "value": "kolochob"
+  },
+  {
+    "name": "Комарт",
+    "value": "komart"
+  },
+  {
+    "name": "Коми",
+    "value": "komi"
+  },
+  {
+    "name": "Коммуна",
+    "value": "kommuna"
+  },
+  {
+    "name": "Комсомольское",
+    "value": "komsomolskoe"
+  },
+  {
+    "name": "Кондик",
+    "value": "kondik"
+  },
+  {
+    "name": "Коркмаскала",
+    "value": "korkmaskala"
+  },
+  {
+    "name": "Корода",
+    "value": "koroda"
+  },
+  {
+    "name": "Корш",
+    "value": "korsh"
+  },
+  {
+    "name": "Кособ",
+    "value": "kosob"
+  },
+  {
+    "name": "Косрода",
+    "value": "kosroda"
+  },
+  {
+    "name": "Костек",
+    "value": "kostek"
+  },
+  {
+    "name": "Косякино",
+    "value": "kosyakino"
+  },
+  {
+    "name": "Крайновка",
+    "value": "krainovka"
+  },
+  {
+    "name": "Красный Рыбак",
+    "value": "krasnii_ribak"
+  },
+  {
+    "name": "Красный Восход",
+    "value": "krasnii_voskhod"
+  },
+  {
+    "name": "Красноармейское",
+    "value": "krasnoarmeiskoe"
+  },
+  {
+    "name": "Краснооктябрьское",
+    "value": "krasnooktyabrskoe"
+  },
+  {
+    "name": "Краснопартизанск",
+    "value": "krasnopartizansk"
+  },
+  {
+    "name": "Куаниб",
+    "value": "kuanib"
+  },
+  {
+    "name": "Куба",
+    "value": "kuba"
+  },
+  {
+    "name": "Кубачи",
+    "value": "kubachi"
+  },
+  {
+    "name": "Кубатль",
+    "value": "kubatl"
+  },
+  {
+    "name": "Кубра",
+    "value": "kubra"
+  },
+  {
+    "name": "Кубримахи",
+    "value": "kubrimakhi"
+  },
+  {
+    "name": "Кучраб",
+    "value": "kuchrab"
+  },
+  {
+    "name": "Кудагу",
+    "value": "kudagu"
+  },
+  {
+    "name": "Кудали",
+    "value": "kudali"
+  },
+  {
+    "name": "Кудиябросо",
+    "value": "kudiyabroso"
+  },
+  {
+    "name": "Кудутль",
+    "value": "kudutl"
+  },
+  {
+    "name": "Куфа",
+    "value": "kufa"
+  },
+  {
+    "name": "Куг",
+    "value": "kug"
+  },
+  {
+    "name": "Куйбышево",
+    "value": "kuibishevo"
+  },
+  {
+    "name": "Куитли",
+    "value": "kuitli"
+  },
+  {
+    "name": "Кукнамахи",
+    "value": "kuknamakhi"
+  },
+  {
+    "name": "Кукни",
+    "value": "kukni"
+  },
+  {
+    "name": "Кукваз",
+    "value": "kukvaz"
+  },
+  {
+    "name": "Кула",
+    "value": "kula"
+  },
+  {
+    "name": "Кулегу",
+    "value": "kulegu"
+  },
+  {
+    "name": "Кулецма",
+    "value": "kuletsma"
+  },
+  {
+    "name": "Кули",
+    "value": "kuli"
+  },
+  {
+    "name": "Кулибухна",
+    "value": "kulibukhna"
+  },
+  {
+    "name": "Кулиджа",
+    "value": "kulidzha"
+  },
+  {
+    "name": "Кулиф",
+    "value": "kulif"
+  },
+  {
+    "name": "Кулиг",
+    "value": "kulig"
+  },
+  {
+    "name": "Кулиямахи",
+    "value": "kuliyamakhi"
+  },
+  {
+    "name": "Кулкам",
+    "value": "kulkam"
+  },
+  {
+    "name": "Кулькибекмахи",
+    "value": "kulkibekmakhi"
+  },
+  {
+    "name": "Кулла",
+    "value": "kulla"
+  },
+  {
+    "name": "Куллар",
+    "value": "kullar"
+  },
+  {
+    "name": "Кулушац",
+    "value": "kulushats"
+  },
+  {
+    "name": "Кульзеб",
+    "value": "kulzeb"
+  },
+  {
+    "name": "Кума",
+    "value": "kuma"
+  },
+  {
+    "name": "Кумамахи",
+    "value": "kumamakhi"
+  },
+  {
+    "name": "Кумли",
+    "value": "kumli"
+  },
+  {
+    "name": "Кумух",
+    "value": "kumukh"
+  },
+  {
+    "name": "Кунбатар",
+    "value": "kunbatar"
+  },
+  {
+    "name": "Кунды",
+    "value": "kundi"
+  },
+  {
+    "name": "Кунки",
+    "value": "kunki"
+  },
+  {
+    "name": "Кункикотты",
+    "value": "kunkikotti"
+  },
+  {
+    "name": "Кунзах",
+    "value": "kunzakh"
+  },
+  {
+    "name": "Куппа",
+    "value": "kuppa"
+  },
+  {
+    "name": "Кураг",
+    "value": "kurag"
+  },
+  {
+    "name": "Курах",
+    "value": "kurakh"
+  },
+  {
+    "name": "Курчлах",
+    "value": "kurchlakh"
+  },
+  {
+    "name": "Курдул",
+    "value": "kurdul"
+  },
+  {
+    "name": "Курдюковское",
+    "value": "kurdyukovskoe"
+  },
+  {
+    "name": "Курьимахи",
+    "value": "kurimakhi"
+  },
+  {
+    "name": "Куркак",
+    "value": "kurkak"
+  },
+  {
+    "name": "Куркент",
+    "value": "kurkent"
+  },
+  {
+    "name": "Куркимахи",
+    "value": "kurkimakhi"
+  },
+  {
+    "name": "Куркли",
+    "value": "kurkli"
+  },
+  {
+    "name": "Куркуркент",
+    "value": "kurkurkent"
+  },
+  {
+    "name": "Курла",
+    "value": "kurla"
+  },
+  {
+    "name": "Курми",
+    "value": "kurmi"
+  },
+  {
+    "name": "Курорт Каякент",
+    "value": "kurort_kayakent"
+  },
+  {
+    "name": "Курукал",
+    "value": "kurukal"
+  },
+  {
+    "name": "Куруш",
+    "value": "kurush"
+  },
+  {
+    "name": "Кусамахи",
+    "value": "kusamakhi"
+  },
+  {
+    "name": "Куштиль",
+    "value": "kushtil"
+  },
+  {
+    "name": "Кусур",
+    "value": "kusur"
+  },
+  {
+    "name": "Кутан-Аралик",
+    "value": "kutan_aralik"
+  },
+  {
+    "name": "кутан колхоза им. Горького",
+    "value": "kutan_kolkhoza_im._gorkogo"
+  },
+  {
+    "name": "Кутих",
+    "value": "kutikh"
+  },
+  {
+    "name": "Кутиша",
+    "value": "kutisha"
+  },
+  {
+    "name": "Кутлаб",
+    "value": "kutlab"
+  },
+  {
+    "name": "Кутул",
+    "value": "kutul"
+  },
+  {
+    "name": "Куваг",
+    "value": "kuvag"
+  },
+  {
+    "name": "Кувиг",
+    "value": "kuvig"
+  },
+  {
+    "name": "Кужник",
+    "value": "kuzhnik"
+  },
+  {
+    "name": "Кузнецовское",
+    "value": "kuznetsovskoe"
+  },
+  {
+    "name": "Кванада",
+    "value": "kvanada"
+  },
+  {
+    "name": "Кванхидатли",
+    "value": "kvankhidatli"
+  },
+  {
+    "name": "Квантлада",
+    "value": "kvantlada"
+  },
+  {
+    "name": "Квардал",
+    "value": "kvardal"
+  },
+  {
+    "name": "Кяхулай",
+    "value": "kyakhulai"
+  },
+  {
+    "name": "Кюрек",
+    "value": "kyurek"
+  },
+  {
+    "name": "Кюряг",
+    "value": "kyuryag"
+  },
+  {
+    "name": "Лачи",
+    "value": "lachi"
+  },
+  {
+    "name": "Лака",
+    "value": "laka"
+  },
+  {
+    "name": "Лахир",
+    "value": "lakhir"
+  },
+  {
+    "name": "Лахнайда",
+    "value": "lakhnaida"
+  },
+  {
+    "name": "Лакун",
+    "value": "lakun"
+  },
+  {
+    "name": "Ланда",
+    "value": "landa"
+  },
+  {
+    "name": "Ленинаул",
+    "value": "leninaul"
+  },
+  {
+    "name": "Ленинкент",
+    "value": "leninkent"
+  },
+  {
+    "name": "Леваши",
+    "value": "levashi"
+  },
+  {
+    "name": "Левка",
+    "value": "levka"
+  },
+  {
+    "name": "Лгапиркент",
+    "value": "lgapirkent"
+  },
+  {
+    "name": "Лидже",
+    "value": "lidzhe"
+  },
+  {
+    "name": "Лища",
+    "value": "lishcha"
+  },
+  {
+    "name": "Лологонитль",
+    "value": "lologonitl"
+  },
+  {
+    "name": "Луткун",
+    "value": "lutkun"
+  },
+  {
+    "name": "Ляха",
+    "value": "lyakha"
+  },
+  {
+    "name": "Ляхля",
+    "value": "lyakhlya"
+  },
+  {
+    "name": "Люксембург",
+    "value": "lyuksemburg"
+  },
+  {
+    "name": "Мааки",
+    "value": "maaki"
+  },
+  {
+    "name": "Маали",
+    "value": "maali"
+  },
+  {
+    "name": "Мачада",
+    "value": "machada"
+  },
+  {
+    "name": "Мадала",
+    "value": "madala"
+  },
+  {
+    "name": "Маджалис",
+    "value": "madzhalis"
+  },
+  {
+    "name": "Магар",
+    "value": "magar"
+  },
+  {
+    "name": "Магарамкент",
+    "value": "magaramkent"
+  },
+  {
+    "name": "Магитль",
+    "value": "magitl"
+  },
+  {
+    "name": "Май",
+    "value": "mai"
+  },
+  {
+    "name": "Майданское",
+    "value": "maidanskoe"
+  },
+  {
+    "name": "Макаровское",
+    "value": "makarovskoe"
+  },
+  {
+    "name": "Махачкала",
+    "value": "makhachkala"
+  },
+  {
+    "name": "Махалотли",
+    "value": "makhalotli"
+  },
+  {
+    "name": "Малая Арешевка",
+    "value": "malaya_areshevka"
+  },
+  {
+    "name": "Малая Задоевка",
+    "value": "malaya_zadoevka"
+  },
+  {
+    "name": "Маллакент",
+    "value": "mallakent"
+  },
+  {
+    "name": "Малое Козыревское",
+    "value": "maloe_kozirevskoe"
+  },
+  {
+    "name": "Мамааул",
+    "value": "mamaaul"
+  },
+  {
+    "name": "Мамедкала",
+    "value": "mamedkala"
+  },
+  {
+    "name": "Манас",
+    "value": "manas"
+  },
+  {
+    "name": "Манасаул",
+    "value": "manasaul"
+  },
+  {
+    "name": "Манаскент",
+    "value": "manaskent"
+  },
+  {
+    "name": "Мангулаул",
+    "value": "mangulaul"
+  },
+  {
+    "name": "Марага",
+    "value": "maraga"
+  },
+  {
+    "name": "Машаты",
+    "value": "mashati"
+  },
+  {
+    "name": "Маштада",
+    "value": "mashtada"
+  },
+  {
+    "name": "Матлас",
+    "value": "matlas"
+  },
+  {
+    "name": "Маза",
+    "value": "maza"
+  },
+  {
+    "name": "Мазада",
+    "value": "mazada"
+  },
+  {
+    "name": "Мегеб",
+    "value": "megeb"
+  },
+  {
+    "name": "Мегила",
+    "value": "megila"
+  },
+  {
+    "name": "Мекеги",
+    "value": "mekegi"
+  },
+  {
+    "name": "Мехельта",
+    "value": "mekhelta"
+  },
+  {
+    "name": "Местерух",
+    "value": "mesterukh"
+  },
+  {
+    "name": "Метрада",
+    "value": "metrada"
+  },
+  {
+    "name": "Меусиша",
+    "value": "meusisha"
+  },
+  {
+    "name": "Миарсо",
+    "value": "miarso"
+  },
+  {
+    "name": "Миатли",
+    "value": "miatli"
+  },
+  {
+    "name": "Миджах",
+    "value": "midzhakh"
+  },
+  {
+    "name": "Миглакасимахи",
+    "value": "miglakasimakhi"
+  },
+  {
+    "name": "Михеевское",
+    "value": "mikheevskoe"
+  },
+  {
+    "name": "Миких",
+    "value": "mikikh"
+  },
+  {
+    "name": "Микрах",
+    "value": "mikrakh"
+  },
+  {
+    "name": "Мишлеш",
+    "value": "mishlesh"
+  },
+  {
+    "name": "Миси",
+    "value": "misi"
+  },
+  {
+    "name": "Мискинджи",
+    "value": "miskindzhi"
+  },
+  {
+    "name": "Митаги",
+    "value": "mitagi"
+  },
+  {
+    "name": "Митаги-Казмаляр",
+    "value": "mitagi_kazmalyar"
+  },
+  {
+    "name": "Митлиуриб",
+    "value": "mitliurib"
+  },
+  {
+    "name": "Мижигли",
+    "value": "mizhigli"
+  },
+  {
+    "name": "Мочиб",
+    "value": "mochib"
+  },
+  {
+    "name": "Мочох",
+    "value": "mochokh"
+  },
+  {
+    "name": "Могилёвское",
+    "value": "mogilyovskoe"
+  },
+  {
+    "name": "Могох",
+    "value": "mogokh"
+  },
+  {
+    "name": "Могроб",
+    "value": "mogrob"
+  },
+  {
+    "name": "Мокок",
+    "value": "mokok"
+  },
+  {
+    "name": "Моксоб",
+    "value": "moksob"
+  },
+  {
+    "name": "Моксох",
+    "value": "moksokh"
+  },
+  {
+    "name": "Мошоб",
+    "value": "moshob"
+  },
+  {
+    "name": "Мотогурсу",
+    "value": "motogursu"
+  },
+  {
+    "name": "Мучода",
+    "value": "muchoda"
+  },
+  {
+    "name": "Мучула",
+    "value": "muchula"
+  },
+  {
+    "name": "Муги",
+    "value": "mugi"
+  },
+  {
+    "name": "Мугри",
+    "value": "mugri"
+  },
+  {
+    "name": "Мугурух",
+    "value": "mugurukh"
+  },
+  {
+    "name": "Мукар",
+    "value": "mukar"
+  },
+  {
+    "name": "Мухарх",
+    "value": "mukharkh"
+  },
+  {
+    "name": "Мукрисана",
+    "value": "mukrisana"
+  },
+  {
+    "name": "Мукутль",
+    "value": "mukutl"
+  },
+  {
+    "name": "Мулла-Али",
+    "value": "mulla_ali"
+  },
+  {
+    "name": "Муни",
+    "value": "muni"
+  },
+  {
+    "name": "Мурада",
+    "value": "murada"
+  },
+  {
+    "name": "Мургук",
+    "value": "murguk"
+  },
+  {
+    "name": "Мурлатинамахи",
+    "value": "murlatinamakhi"
+  },
+  {
+    "name": "Мурух",
+    "value": "murukh"
+  },
+  {
+    "name": "Муслах",
+    "value": "muslakh"
+  },
+  {
+    "name": "Мусрух",
+    "value": "musrukh"
+  },
+  {
+    "name": "Мусультемахи",
+    "value": "musultemakhi"
+  },
+  {
+    "name": "Мутайкутан",
+    "value": "mutaikutan"
+  },
+  {
+    "name": "Муцалаул",
+    "value": "mutsalaul"
+  },
+  {
+    "name": "Музаим",
+    "value": "muzaim"
+  },
+  {
+    "name": "Мюхрек",
+    "value": "myukhrek"
+  },
+  {
+    "name": "Мюрего",
+    "value": "myurego"
+  },
+  {
+    "name": "Надар",
+    "value": "nadar"
+  },
+  {
+    "name": "Наказух",
+    "value": "nakazukh"
+  },
+  {
+    "name": "Нахада",
+    "value": "nakhada"
+  },
+  {
+    "name": "Нахки",
+    "value": "nakhki"
+  },
+  {
+    "name": "Нап",
+    "value": "nap"
+  },
+  {
+    "name": "Нариман",
+    "value": "nariman"
+  },
+  {
+    "name": "Нарыш",
+    "value": "narish"
+  },
+  {
+    "name": "Нарышкутан",
+    "value": "narishkutan"
+  },
+  {
+    "name": "Наскент",
+    "value": "naskent"
+  },
+  {
+    "name": "Наци",
+    "value": "natsi"
+  },
+  {
+    "name": "Нечаевка",
+    "value": "nechaevka"
+  },
+  {
+    "name": "Некрасовка",
+    "value": "nekrasovka"
+  },
+  {
+    "name": "Ничрас",
+    "value": "nichras"
+  },
+  {
+    "name": "Никабармахи",
+    "value": "nikabarmakhi"
+  },
+  {
+    "name": "Никар",
+    "value": "nikar"
+  },
+  {
+    "name": "Никлида",
+    "value": "niklida"
+  },
+  {
+    "name": "Нитилсух",
+    "value": "nitilsukh"
+  },
+  {
+    "name": "Нижнее Инхело",
+    "value": "nizhnee_inkhelo"
+  },
+  {
+    "name": "Нижнее Инхо",
+    "value": "nizhnee_inkho"
+  },
+  {
+    "name": "Нижнее Казанище",
+    "value": "nizhnee_kazanishche"
+  },
+  {
+    "name": "Нижние Чугли",
+    "value": "nizhnie_chugli"
+  },
+  {
+    "name": "Нижние Ишкарты",
+    "value": "nizhnie_ishkarti"
+  },
+  {
+    "name": "Нижние Лабкомахи",
+    "value": "nizhnie_labkomakhi"
+  },
+  {
+    "name": "Нижние Махаргимахи",
+    "value": "nizhnie_makhargimakhi"
+  },
+  {
+    "name": "Нижние Мулебки",
+    "value": "nizhnie_mulebki"
+  },
+  {
+    "name": "Нижний Арадирих",
+    "value": "nizhnii_aradirikh"
+  },
+  {
+    "name": "Нижний Батлух",
+    "value": "nizhnii_batlukh"
+  },
+  {
+    "name": "Нижний Чирюрт",
+    "value": "nizhnii_chiryurt"
+  },
+  {
+    "name": "Нижний Джалган",
+    "value": "nizhnii_dzhalgan"
+  },
+  {
+    "name": "Нижний Дженгутай",
+    "value": "nizhnii_dzhengutai"
+  },
+  {
+    "name": "Нижний Каранай",
+    "value": "nizhnii_karanai"
+  },
+  {
+    "name": "Нижний Катрух",
+    "value": "nizhnii_katrukh"
+  },
+  {
+    "name": "Нижний Кегер",
+    "value": "nizhnii_keger"
+  },
+  {
+    "name": "Нижний Колоб",
+    "value": "nizhnii_kolob"
+  },
+  {
+    "name": "Нижний Тогох",
+    "value": "nizhnii_togokh"
+  },
+  {
+    "name": "Нижняя Бикаламахи",
+    "value": "nizhnyaya_bikalamakhi"
+  },
+  {
+    "name": "Нижняя Чиамахи",
+    "value": "nizhnyaya_chiamakhi"
+  },
+  {
+    "name": "Нижняя Хваршини",
+    "value": "nizhnyaya_khvarshini"
+  },
+  {
+    "name": "Нижняя Убекимахи",
+    "value": "nizhnyaya_ubekimakhi"
+  },
+  {
+    "name": "Нойрух",
+    "value": "noirukh"
+  },
+  {
+    "name": "Новая Барша",
+    "value": "novaya_barsha"
+  },
+  {
+    "name": "Новая Коса",
+    "value": "novaya_kosa"
+  },
+  {
+    "name": "Новая Мака",
+    "value": "novaya_maka"
+  },
+  {
+    "name": "Новая Серебряковка",
+    "value": "novaya_serebryakovka"
+  },
+  {
+    "name": "Новая Урада",
+    "value": "novaya_urada"
+  },
+  {
+    "name": "Новые Викри",
+    "value": "novie_vikri"
+  },
+  {
+    "name": "Новый Аул",
+    "value": "novii_aul"
+  },
+  {
+    "name": "Новый Бахтемир",
+    "value": "novii_bakhtemir"
+  },
+  {
+    "name": "Новый Чечень",
+    "value": "novii_chechen"
+  },
+  {
+    "name": "Новый Чиркей",
+    "value": "novii_chirkei"
+  },
+  {
+    "name": "Новый Дейбук",
+    "value": "novii_deibuk"
+  },
+  {
+    "name": "Новый Гогаз",
+    "value": "novii_gogaz"
+  },
+  {
+    "name": "Новый Хушет",
+    "value": "novii_khushet"
+  },
+  {
+    "name": "Новый Костек",
+    "value": "novii_kostek"
+  },
+  {
+    "name": "Новый-Кумух",
+    "value": "novii_kumukh"
+  },
+  {
+    "name": "Новый Кяхулай",
+    "value": "novii_kyakhulai"
+  },
+  {
+    "name": "Новый Сулак",
+    "value": "novii_sulak"
+  },
+  {
+    "name": "Новый Усур",
+    "value": "novii_usur"
+  },
+  {
+    "name": "Ново-Аргвани",
+    "value": "novo_argvani"
+  },
+  {
+    "name": "Новочуртах",
+    "value": "novochurtakh"
+  },
+  {
+    "name": "Новодмитриевка",
+    "value": "novodmitrievka"
+  },
+  {
+    "name": "Новое Гадари",
+    "value": "novoe_gadari"
+  },
+  {
+    "name": "Новое Лидже",
+    "value": "novoe_lidzhe"
+  },
+  {
+    "name": "Новогеоргиевка",
+    "value": "novogeorgievka"
+  },
+  {
+    "name": "Новогладовка",
+    "value": "novogladovka"
+  },
+  {
+    "name": "Новокаякент",
+    "value": "novokayakent"
+  },
+  {
+    "name": "Новохохановское",
+    "value": "novokhokhanovskoe"
+  },
+  {
+    "name": "Новокрестьяновское",
+    "value": "novokrestyanovskoe"
+  },
+  {
+    "name": "Новокули",
+    "value": "novokuli"
+  },
+  {
+    "name": "Новолакское",
+    "value": "novolakskoe"
+  },
+  {
+    "name": "Новомонастырское",
+    "value": "novomonastirskoe"
+  },
+  {
+    "name": "Новонадеждовка",
+    "value": "novonadezhdovka"
+  },
+  {
+    "name": "Новониколаевка",
+    "value": "novonikolaevka"
+  },
+  {
+    "name": "Новоромановка",
+    "value": "novoromanovka"
+  },
+  {
+    "name": "Новосаситли",
+    "value": "novosasitli"
+  },
+  {
+    "name": "Новосельское",
+    "value": "novoselskoe"
+  },
+  {
+    "name": "Новотеречное",
+    "value": "novoterechnoe"
+  },
+  {
+    "name": "Нововладимирское",
+    "value": "novovladimirskoe"
+  },
+  {
+    "name": "Нухалу",
+    "value": "nukhalu"
+  },
+  {
+    "name": "Нукуш",
+    "value": "nukush"
+  },
+  {
+    "name": "Нурадилово",
+    "value": "nuradilovo"
+  },
+  {
+    "name": "Нуси",
+    "value": "nusi"
+  },
+  {
+    "name": "Нютюг",
+    "value": "nyutyug"
+  },
+  {
+    "name": "Обода",
+    "value": "oboda"
+  },
+  {
+    "name": "Обох",
+    "value": "obokh"
+  },
+  {
+    "name": "Огни",
+    "value": "ogni"
+  },
+  {
+    "name": "Огузер",
+    "value": "oguzer"
+  },
+  {
+    "name": "Охли",
+    "value": "okhli"
+  },
+  {
+    "name": "Охма",
+    "value": "okhma"
+  },
+  {
+    "name": "Октябрьское",
+    "value": "oktyabrskoe"
+  },
+  {
+    "name": "Орада-Чугли",
+    "value": "orada_chugli"
+  },
+  {
+    "name": "Оркачи",
+    "value": "orkachi"
+  },
+  {
+    "name": "Орота",
+    "value": "orota"
+  },
+  {
+    "name": "Оружба",
+    "value": "oruzhba"
+  },
+  {
+    "name": "Османюрт",
+    "value": "osmanyurt"
+  },
+  {
+    "name": "остров Чечень",
+    "value": "ostrov_chechen"
+  },
+  {
+    "name": "Оттал",
+    "value": "ottal"
+  },
+  {
+    "name": "Падар",
+    "value": "padar"
+  },
+  {
+    "name": "Палисма",
+    "value": "palisma"
+  },
+  {
+    "name": "Параул",
+    "value": "paraul"
+  },
+  {
+    "name": "Персидское",
+    "value": "persidskoe"
+  },
+  {
+    "name": "Первокизлярское",
+    "value": "pervokizlyarskoe"
+  },
+  {
+    "name": "Первомайское",
+    "value": "pervomaiskoe"
+  },
+  {
+    "name": "Пилиг",
+    "value": "pilig"
+  },
+  {
+    "name": "Пиляки",
+    "value": "pilyaki"
+  },
+  {
+    "name": "Покровское",
+    "value": "pokrovskoe"
+  },
+  {
+    "name": "Привольный",
+    "value": "privolnii"
+  },
+  {
+    "name": "Пятилетка",
+    "value": "pyatiletka"
+  },
+  {
+    "name": "Рабадин",
+    "value": "rabadin"
+  },
+  {
+    "name": "Рачабулда",
+    "value": "rachabulda"
+  },
+  {
+    "name": "Рахата",
+    "value": "rakhata"
+  },
+  {
+    "name": "Рассвет",
+    "value": "rassvet"
+  },
+  {
+    "name": "Ратлуб",
+    "value": "ratlub"
+  },
+  {
+    "name": "Раздолье",
+    "value": "razdole"
+  },
+  {
+    "name": "Речное",
+    "value": "rechnoe"
+  },
+  {
+    "name": "Ретлоб",
+    "value": "retlob"
+  },
+  {
+    "name": "Рыбалко",
+    "value": "ribalko"
+  },
+  {
+    "name": "Рича",
+    "value": "richa"
+  },
+  {
+    "name": "Ричаганих",
+    "value": "richaganikh"
+  },
+  {
+    "name": "Риквани",
+    "value": "rikvani"
+  },
+  {
+    "name": "Родниковый",
+    "value": "rodnikovii"
+  },
+  {
+    "name": "Росноб",
+    "value": "rosnob"
+  },
+  {
+    "name": "Росутль",
+    "value": "rosutl"
+  },
+  {
+    "name": "Рубас",
+    "value": "rubas"
+  },
+  {
+    "name": "Ругольда",
+    "value": "rugolda"
+  },
+  {
+    "name": "Ругудж",
+    "value": "rugudzh"
+  },
+  {
+    "name": "Ругуджа",
+    "value": "rugudzha"
+  },
+  {
+    "name": "Рука",
+    "value": "ruka"
+  },
+  {
+    "name": "Рухун",
+    "value": "rukhun"
+  },
+  {
+    "name": "Рульдаб",
+    "value": "ruldab"
+  },
+  {
+    "name": "Руштух",
+    "value": "rushtukh"
+  },
+  {
+    "name": "Рушуль",
+    "value": "rushul"
+  },
+  {
+    "name": "Рутул",
+    "value": "rutul"
+  },
+  {
+    "name": "Сабнова",
+    "value": "sabnova"
+  },
+  {
+    "name": "Сачада",
+    "value": "sachada"
+  },
+  {
+    "name": "Салда",
+    "value": "salda"
+  },
+  {
+    "name": "Салик",
+    "value": "salik"
+  },
+  {
+    "name": "Салта",
+    "value": "salta"
+  },
+  {
+    "name": "Салтыбак 2-й",
+    "value": "saltibak_2_i"
+  },
+  {
+    "name": "Самур",
+    "value": "samur"
+  },
+  {
+    "name": "Сангар",
+    "value": "sangar"
+  },
+  {
+    "name": "Сангиши",
+    "value": "sangishi"
+  },
+  {
+    "name": "Саниорта",
+    "value": "saniorta"
+  },
+  {
+    "name": "Санта",
+    "value": "santa"
+  },
+  {
+    "name": "Сантлада",
+    "value": "santlada"
+  },
+  {
+    "name": "Сантлода",
+    "value": "santloda"
+  },
+  {
+    "name": "Санух",
+    "value": "sanukh"
+  },
+  {
+    "name": "Сар-Сар",
+    "value": "sar_sar"
+  },
+  {
+    "name": "Сарфунсу",
+    "value": "sarfunsu"
+  },
+  {
+    "name": "Саситли",
+    "value": "sasitli"
+  },
+  {
+    "name": "Сех",
+    "value": "sekh"
+  },
+  {
+    "name": "Семендер",
+    "value": "semender"
+  },
+  {
+    "name": "Семгамахи",
+    "value": "semgamakhi"
+  },
+  {
+    "name": "Серебряковка",
+    "value": "serebryakovka"
+  },
+  {
+    "name": "Сергокала",
+    "value": "sergokala"
+  },
+  {
+    "name": "Сериб",
+    "value": "serib"
+  },
+  {
+    "name": "Сертиль",
+    "value": "sertil"
+  },
+  {
+    "name": "Шадни",
+    "value": "shadni"
+  },
+  {
+    "name": "Шагада",
+    "value": "shagada"
+  },
+  {
+    "name": "Шахува",
+    "value": "shakhuva"
+  },
+  {
+    "name": "Шаласи",
+    "value": "shalasi"
+  },
+  {
+    "name": "Шалиб",
+    "value": "shalib"
+  },
+  {
+    "name": "Шамилькала",
+    "value": "shamilkala"
+  },
+  {
+    "name": "Шамхал",
+    "value": "shamkhal"
+  },
+  {
+    "name": "Шамхал-Термен",
+    "value": "shamkhal_termen"
+  },
+  {
+    "name": "Шангода",
+    "value": "shangoda"
+  },
+  {
+    "name": "Шара",
+    "value": "shara"
+  },
+  {
+    "name": "Шаури",
+    "value": "shauri"
+  },
+  {
+    "name": "Щулани",
+    "value": "shchulani"
+  },
+  {
+    "name": "Шидиб",
+    "value": "shidib"
+  },
+  {
+    "name": "Шиле",
+    "value": "shile"
+  },
+  {
+    "name": "Шиляги",
+    "value": "shilyagi"
+  },
+  {
+    "name": "Шимихюр",
+    "value": "shimikhyur"
+  },
+  {
+    "name": "Шиназ",
+    "value": "shinaz"
+  },
+  {
+    "name": "Шинкалабухна",
+    "value": "shinkalabukhna"
+  },
+  {
+    "name": "Шинкбалакада",
+    "value": "shinkbalakada"
+  },
+  {
+    "name": "Шира",
+    "value": "shira"
+  },
+  {
+    "name": "Шитли",
+    "value": "shitli"
+  },
+  {
+    "name": "Шодрода",
+    "value": "shodroda"
+  },
+  {
+    "name": "Шолода",
+    "value": "sholoda"
+  },
+  {
+    "name": "Шотота",
+    "value": "shotota"
+  },
+  {
+    "name": "Шовкра",
+    "value": "shovkra"
+  },
+  {
+    "name": "Штул",
+    "value": "shtul"
+  },
+  {
+    "name": "Шукты",
+    "value": "shukti"
+  },
+  {
+    "name": "Шулерчи",
+    "value": "shulerchi"
+  },
+  {
+    "name": "Шумах",
+    "value": "shumakh"
+  },
+  {
+    "name": "Шумхримахи",
+    "value": "shumkhrimakhi"
+  },
+  {
+    "name": "Шуни",
+    "value": "shuni"
+  },
+  {
+    "name": "Шурагат",
+    "value": "shuragat"
+  },
+  {
+    "name": "Шурхла",
+    "value": "shurkhla"
+  },
+  {
+    "name": "Сика",
+    "value": "sika"
+  },
+  {
+    "name": "Сикар",
+    "value": "sikar"
+  },
+  {
+    "name": "Сикида",
+    "value": "sikida"
+  },
+  {
+    "name": "Сикух",
+    "value": "sikukh"
+  },
+  {
+    "name": "Сильди",
+    "value": "sildi"
+  },
+  {
+    "name": "Силта",
+    "value": "silta"
+  },
+  {
+    "name": "Симсир",
+    "value": "simsir"
+  },
+  {
+    "name": "Сираги",
+    "value": "siragi"
+  },
+  {
+    "name": "Сиртич",
+    "value": "sirtich"
+  },
+  {
+    "name": "Сиух",
+    "value": "siukh"
+  },
+  {
+    "name": "Сивух",
+    "value": "sivukh"
+  },
+  {
+    "name": "Смугул",
+    "value": "smugul"
+  },
+  {
+    "name": "Содаб",
+    "value": "sodab"
+  },
+  {
+    "name": "Согратль",
+    "value": "sogratl"
+  },
+  {
+    "name": "Солнечное",
+    "value": "solnechnoe"
+  },
+  {
+    "name": "Сомода",
+    "value": "somoda"
+  },
+  {
+    "name": "Советское",
+    "value": "sovetskoe"
+  },
+  {
+    "name": "Средний Арадирих",
+    "value": "srednii_aradirikh"
+  },
+  {
+    "name": "Стальское",
+    "value": "stalskoe"
+  },
+  {
+    "name": "Старое Тамазатюбе",
+    "value": "staroe_tamazatyube"
+  },
+  {
+    "name": "Старополтавский",
+    "value": "staropoltavskii"
+  },
+  {
+    "name": "Степное",
+    "value": "stepnoe"
+  },
+  {
+    "name": "Судега",
+    "value": "sudega"
+  },
+  {
+    "name": "Сукиях",
+    "value": "sukiyakh"
+  },
+  {
+    "name": "Сулантиль",
+    "value": "sulantil"
+  },
+  {
+    "name": "Сулейбакент",
+    "value": "suleibakent"
+  },
+  {
+    "name": "Сулевкент",
+    "value": "sulevkent"
+  },
+  {
+    "name": "Сумбатль",
+    "value": "sumbatl"
+  },
+  {
+    "name": "Сумета",
+    "value": "sumeta"
+  },
+  {
+    "name": "Сумия",
+    "value": "sumiya"
+  },
+  {
+    "name": "Сургия",
+    "value": "surgiya"
+  },
+  {
+    "name": "Сурхачи",
+    "value": "surkhachi"
+  },
+  {
+    "name": "Сурхавкент",
+    "value": "surkhavkent"
+  },
+  {
+    "name": "Сусакент",
+    "value": "susakent"
+  },
+  {
+    "name": "Сутайкутан",
+    "value": "sutaikutan"
+  },
+  {
+    "name": "Сутбу",
+    "value": "sutbu"
+  },
+  {
+    "name": "Суюткино",
+    "value": "suyutkino"
+  },
+  {
+    "name": "Сюгут",
+    "value": "syugut"
+  },
+  {
+    "name": "Тадиял",
+    "value": "tadiyal"
+  },
+  {
+    "name": "Тагиркент",
+    "value": "tagirkent"
+  },
+  {
+    "name": "Тагиркент-Казмаляр",
+    "value": "tagirkent_kazmalyar"
+  },
+  {
+    "name": "Такалай",
+    "value": "takalai"
+  },
+  {
+    "name": "Тахраних",
+    "value": "takhranikh"
+  },
+  {
+    "name": "Такхо",
+    "value": "takkho"
+  },
+  {
+    "name": "Талги",
+    "value": "talgi"
+  },
+  {
+    "name": "Таловка",
+    "value": "talovka"
+  },
+  {
+    "name": "Талсух",
+    "value": "talsukh"
+  },
+  {
+    "name": "Талух",
+    "value": "talukh"
+  },
+  {
+    "name": "Тамазатюбе",
+    "value": "tamazatyube"
+  },
+  {
+    "name": "Тамуда",
+    "value": "tamuda"
+  },
+  {
+    "name": "Тандо",
+    "value": "tando"
+  },
+  {
+    "name": "Тантари",
+    "value": "tantari"
+  },
+  {
+    "name": "Танты",
+    "value": "tanti"
+  },
+  {
+    "name": "Тануси",
+    "value": "tanusi"
+  },
+  {
+    "name": "Таратулмеэр",
+    "value": "taratulmeer"
+  },
+  {
+    "name": "Тарки",
+    "value": "tarki"
+  },
+  {
+    "name": "Тарланкак",
+    "value": "tarlankak"
+  },
+  {
+    "name": "Тарлимахи",
+    "value": "tarlimakhi"
+  },
+  {
+    "name": "Тарумовка",
+    "value": "tarumovka"
+  },
+  {
+    "name": "Тасута",
+    "value": "tasuta"
+  },
+  {
+    "name": "Татаюрт",
+    "value": "tatayurt"
+  },
+  {
+    "name": "Татиль",
+    "value": "tatil"
+  },
+  {
+    "name": "Татляр",
+    "value": "tatlyar"
+  },
+  {
+    "name": "Тазиркент",
+    "value": "tazirkent"
+  },
+  {
+    "name": "Тебекмахи",
+    "value": "tebekmakhi"
+  },
+  {
+    "name": "Телетль",
+    "value": "teletl"
+  },
+  {
+    "name": "Темираул",
+    "value": "temiraul"
+  },
+  {
+    "name": "Темиргое",
+    "value": "temirgoe"
+  },
+  {
+    "name": "Тенла",
+    "value": "tenla"
+  },
+  {
+    "name": "Теречное",
+    "value": "terechnoe"
+  },
+  {
+    "name": "Терекли-Мектеб",
+    "value": "terekli-mekteb"
+  },
+  {
+    "name": "Терутли",
+    "value": "terutli"
+  },
+  {
+    "name": "Тидиб",
+    "value": "tidib"
+  },
+  {
+    "name": "Тинди",
+    "value": "tindi"
+  },
+  {
+    "name": "Тинит",
+    "value": "tinit"
+  },
+  {
+    "name": "Тисси",
+    "value": "tissi"
+  },
+  {
+    "name": "Тлайлух",
+    "value": "tlailukh"
+  },
+  {
+    "name": "Тлибишо",
+    "value": "tlibisho"
+  },
+  {
+    "name": "Тлох",
+    "value": "tlokh"
+  },
+  {
+    "name": "Тлондода",
+    "value": "tlondoda"
+  },
+  {
+    "name": "Тлядаль",
+    "value": "tlyadal"
+  },
+  {
+    "name": "Тлях",
+    "value": "tlyakh"
+  },
+  {
+    "name": "Тлянуб",
+    "value": "tlyanub"
+  },
+  {
+    "name": "Тлярата",
+    "value": "tlyarata"
+  },
+  {
+    "name": "Тляробазутль",
+    "value": "tlyarobazutl"
+  },
+  {
+    "name": "Тлярош",
+    "value": "tlyarosh"
+  },
+  {
+    "name": "Тляцуда",
+    "value": "tlyatsuda"
+  },
+  {
+    "name": "Тох",
+    "value": "tokh"
+  },
+  {
+    "name": "Тох-Орда",
+    "value": "tokh_orda"
+  },
+  {
+    "name": "Тохота",
+    "value": "tokhota"
+  },
+  {
+    "name": "Тпиг",
+    "value": "tpig"
+  },
+  {
+    "name": "Трисанчи",
+    "value": "trisanchi"
+  },
+  {
+    "name": "Тркал",
+    "value": "trkal"
+  },
+  {
+    "name": "Цада",
+    "value": "tsada"
+  },
+  {
+    "name": "Цахур",
+    "value": "tsakhur"
+  },
+  {
+    "name": "Цалкита",
+    "value": "tsalkita"
+  },
+  {
+    "name": "Цамла",
+    "value": "tsamla"
+  },
+  {
+    "name": "Цанатль",
+    "value": "tsanatl"
+  },
+  {
+    "name": "Цатаних",
+    "value": "tsatanikh"
+  },
+  {
+    "name": "Цекоб",
+    "value": "tsekob"
+  },
+  {
+    "name": "Цельмес",
+    "value": "tselmes"
+  },
+  {
+    "name": "Целягюн",
+    "value": "tselyagyun"
+  },
+  {
+    "name": "Цемер",
+    "value": "tsemer"
+  },
+  {
+    "name": "Ценеб",
+    "value": "tseneb"
+  },
+  {
+    "name": "Центральная Усадьба",
+    "value": "tsentralnaya_usadba"
+  },
+  {
+    "name": "Церхимахи",
+    "value": "tserkhimakhi"
+  },
+  {
+    "name": "Цибари",
+    "value": "tsibari"
+  },
+  {
+    "name": "Цидатль",
+    "value": "tsidatl"
+  },
+  {
+    "name": "Цыйша",
+    "value": "tsiisha"
+  },
+  {
+    "name": "Цыхалах",
+    "value": "tsikhalakh"
+  },
+  {
+    "name": "Цихок",
+    "value": "tsikhok"
+  },
+  {
+    "name": "Цилитль",
+    "value": "tsilitl"
+  },
+  {
+    "name": "Цирхе",
+    "value": "tsirkhe"
+  },
+  {
+    "name": "Цияб-Ичичали",
+    "value": "tsiyab_ichichali"
+  },
+  {
+    "name": "Цизгари",
+    "value": "tsizgari"
+  },
+  {
+    "name": "Цлак",
+    "value": "tslak"
+  },
+  {
+    "name": "Цмур",
+    "value": "tsmur"
+  },
+  {
+    "name": "Цнал",
+    "value": "tsnal"
+  },
+  {
+    "name": "Цохок",
+    "value": "tsokhok"
+  },
+  {
+    "name": "Цолода",
+    "value": "tsoloda"
+  },
+  {
+    "name": "Цовкра 1-я",
+    "value": "tsovkra_1_ya"
+  },
+  {
+    "name": "Цовкра 2-я",
+    "value": "tsovkra_2_ya"
+  },
+  {
+    "name": "Цудахар",
+    "value": "tsudakhar"
+  },
+  {
+    "name": "Цудук",
+    "value": "tsuduk"
+  },
+  {
+    "name": "Цугни",
+    "value": "tsugni"
+  },
+  {
+    "name": "Цуйди",
+    "value": "tsuidi"
+  },
+  {
+    "name": "Цухдих",
+    "value": "tsukhdikh"
+  },
+  {
+    "name": "Цухта",
+    "value": "tsukhta"
+  },
+  {
+    "name": "Цулда",
+    "value": "tsulda"
+  },
+  {
+    "name": "Цуликана",
+    "value": "tsulikana"
+  },
+  {
+    "name": "Цумали",
+    "value": "tsumali"
+  },
+  {
+    "name": "Цумилух",
+    "value": "tsumilukh"
+  },
+  {
+    "name": "Цунди",
+    "value": "tsundi"
+  },
+  {
+    "name": "Цундимахи",
+    "value": "tsundimakhi"
+  },
+  {
+    "name": "Цундрамахи",
+    "value": "tsundramakhi"
+  },
+  {
+    "name": "Цунимахи",
+    "value": "tsunimakhi"
+  },
+  {
+    "name": "Цураи",
+    "value": "tsurai"
+  },
+  {
+    "name": "Цурап",
+    "value": "tsurap"
+  },
+  {
+    "name": "Цуриб",
+    "value": "tsurib"
+  },
+  {
+    "name": "Цуртиль",
+    "value": "tsurtil"
+  },
+  {
+    "name": "Цушар",
+    "value": "tsushar"
+  },
+  {
+    "name": "Цветковка",
+    "value": "tsvetkovka"
+  },
+  {
+    "name": "Туганкутан",
+    "value": "tugankutan"
+  },
+  {
+    "name": "Тухчар",
+    "value": "tukhchar"
+  },
+  {
+    "name": "Тукита",
+    "value": "tukita"
+  },
+  {
+    "name": "Тулизма",
+    "value": "tulizma"
+  },
+  {
+    "name": "Тумагари",
+    "value": "tumagari"
+  },
+  {
+    "name": "Тумеллер",
+    "value": "tumeller"
+  },
+  {
+    "name": "Тунзи",
+    "value": "tunzi"
+  },
+  {
+    "name": "Тураг",
+    "value": "turag"
+  },
+  {
+    "name": "Турага",
+    "value": "turaga"
+  },
+  {
+    "name": "Турал-Сульфат",
+    "value": "tural_sulfat"
+  },
+  {
+    "name": "Турали 4-е",
+    "value": "turali_4_e"
+  },
+  {
+    "name": "Турали 5-е",
+    "value": "turali_5_e"
+  },
+  {
+    "name": "Турали 6-е",
+    "value": "turali_6_e"
+  },
+  {
+    "name": "Турали 7-е",
+    "value": "turali_7_e"
+  },
+  {
+    "name": "Турчи",
+    "value": "turchi"
+  },
+  {
+    "name": "Туршунай",
+    "value": "turshunai"
+  },
+  {
+    "name": "Турци",
+    "value": "turtsi"
+  },
+  {
+    "name": "Туруф",
+    "value": "turuf"
+  },
+  {
+    "name": "Тушиловка",
+    "value": "tushilovka"
+  },
+  {
+    "name": "Тутлар",
+    "value": "tutlar"
+  },
+  {
+    "name": "Тузламахи",
+    "value": "tuzlamakhi"
+  },
+  {
+    "name": "Тюбе",
+    "value": "tyube"
+  },
+  {
+    "name": "Учкент",
+    "value": "uchkent"
+  },
+  {
+    "name": "Удок",
+    "value": "udok"
+  },
+  {
+    "name": "Укал",
+    "value": "ukal"
+  },
+  {
+    "name": "Ухул",
+    "value": "ukhul"
+  },
+  {
+    "name": "Украинское",
+    "value": "ukrainskoe"
+  },
+  {
+    "name": "Укуз",
+    "value": "ukuz"
+  },
+  {
+    "name": "Ульгеб",
+    "value": "ulgeb"
+  },
+  {
+    "name": "Уллу-Истису",
+    "value": "ullu_istisu"
+  },
+  {
+    "name": "Уллуая",
+    "value": "ulluaya"
+  },
+  {
+    "name": "Уллубиевка",
+    "value": "ullubievka"
+  },
+  {
+    "name": "Уллубиево",
+    "value": "ullubievo"
+  },
+  {
+    "name": "Уллубийаул",
+    "value": "ullubiiaul"
+  },
+  {
+    "name": "Уллучара",
+    "value": "ulluchara"
+  },
+  {
+    "name": "Уллукимахи",
+    "value": "ullukimakhi"
+  },
+  {
+    "name": "Уллусу",
+    "value": "ullusu"
+  },
+  {
+    "name": "Уллутеркеме",
+    "value": "ulluterkeme"
+  },
+  {
+    "name": "Улуз",
+    "value": "uluz"
+  },
+  {
+    "name": "Умашаул",
+    "value": "umashaul"
+  },
+  {
+    "name": "Уна",
+    "value": "una"
+  },
+  {
+    "name": "Унчукатль",
+    "value": "unchukatl"
+  },
+  {
+    "name": "Унеула",
+    "value": "uneula"
+  },
+  {
+    "name": "Ункида",
+    "value": "unkida"
+  },
+  {
+    "name": "Унты",
+    "value": "unti"
+  },
+  {
+    "name": "Унцукуль",
+    "value": "untsukul"
+  },
+  {
+    "name": "Урада",
+    "value": "urada"
+  },
+  {
+    "name": "Ураги",
+    "value": "uragi"
+  },
+  {
+    "name": "Урахи",
+    "value": "urakhi"
+  },
+  {
+    "name": "Урари",
+    "value": "urari"
+  },
+  {
+    "name": "Урга",
+    "value": "urga"
+  },
+  {
+    "name": "Ургани",
+    "value": "urgani"
+  },
+  {
+    "name": "Ургубамахи",
+    "value": "urgubamakhi"
+  },
+  {
+    "name": "Ури",
+    "value": "uri"
+  },
+  {
+    "name": "Уриб",
+    "value": "urib"
+  },
+  {
+    "name": "Уркарах",
+    "value": "urkarakh"
+  },
+  {
+    "name": "Урхучимахи",
+    "value": "urkhuchimakhi"
+  },
+  {
+    "name": "Урхулакар",
+    "value": "urkhulakar"
+  },
+  {
+    "name": "Урма",
+    "value": "urma"
+  },
+  {
+    "name": "Урсун",
+    "value": "ursun"
+  },
+  {
+    "name": "Урта",
+    "value": "urta"
+  },
+  {
+    "name": "Уртиль",
+    "value": "urtil"
+  },
+  {
+    "name": "Урцаки",
+    "value": "urtsaki"
+  },
+  {
+    "name": "Урцамахи",
+    "value": "urtsamakhi"
+  },
+  {
+    "name": "Уржагимахи",
+    "value": "urzhagimakhi"
+  },
+  {
+    "name": "Урзиг",
+    "value": "urzig"
+  },
+  {
+    "name": "Усемикент",
+    "value": "usemikent"
+  },
+  {
+    "name": "Ушниг",
+    "value": "ushnig"
+  },
+  {
+    "name": "Усиша",
+    "value": "usisha"
+  },
+  {
+    "name": "Усуг",
+    "value": "usug"
+  },
+  {
+    "name": "Усухчай",
+    "value": "usukhchai"
+  },
+  {
+    "name": "Усур",
+    "value": "usur"
+  },
+  {
+    "name": "Утамыш",
+    "value": "utamish"
+  },
+  {
+    "name": "Утлух",
+    "value": "utlukh"
+  },
+  {
+    "name": "Уцмиюрт",
+    "value": "utsmiyurt"
+  },
+  {
+    "name": "Узнимахи",
+    "value": "uznimakhi"
+  },
+  {
+    "name": "Вачи",
+    "value": "vachi"
+  },
+  {
+    "name": "Вахнимахи",
+    "value": "vakhnimakhi"
+  },
+  {
+    "name": "Ванашимахи",
+    "value": "vanashimakhi"
+  },
+  {
+    "name": "Варай",
+    "value": "varai"
+  },
+  {
+    "name": "Варсит",
+    "value": "varsit"
+  },
+  {
+    "name": "Вартатиль",
+    "value": "vartatil"
+  },
+  {
+    "name": "Вартису",
+    "value": "vartisu"
+  },
+  {
+    "name": "Вечрик",
+    "value": "vechrik"
+  },
+  {
+    "name": "Великент",
+    "value": "velikent"
+  },
+  {
+    "name": "Верхнее Инхело",
+    "value": "verkhnee_inkhelo"
+  },
+  {
+    "name": "Верхнее Казанище",
+    "value": "verkhnee_kazanishche"
+  },
+  {
+    "name": "Верхние Ахалчи",
+    "value": "verkhnie_akhalchi"
+  },
+  {
+    "name": "Верхние Гулли",
+    "value": "verkhnie_gulli"
+  },
+  {
+    "name": "Верхние Ишкарты",
+    "value": "verkhnie_ishkarti"
+  },
+  {
+    "name": "Верхние Камкамахи",
+    "value": "verkhnie_kamkamakhi"
+  },
+  {
+    "name": "Верхние Лабкомахи",
+    "value": "verkhnie_labkomakhi"
+  },
+  {
+    "name": "Верхние Махаргимахи",
+    "value": "verkhnie_makhargimakhi"
+  },
+  {
+    "name": "Верхние Убекимахи",
+    "value": "verkhnie_ubekimakhi"
+  },
+  {
+    "name": "Верхний Арадирих",
+    "value": "verkhnii_aradirikh"
+  },
+  {
+    "name": "Верхний Дженгутай",
+    "value": "verkhnii_dzhengutai"
+  },
+  {
+    "name": "Верхний Каршуламахи",
+    "value": "verkhnii_karshulamakhi"
+  },
+  {
+    "name": "Верхний Катрух",
+    "value": "verkhnii_katrukh"
+  },
+  {
+    "name": "Верхний Колоб",
+    "value": "verkhnii_kolob"
+  },
+  {
+    "name": "Верхний Тляниб",
+    "value": "verkhnii_tlyanib"
+  },
+  {
+    "name": "Верхний Тогох",
+    "value": "verkhnii_togokh"
+  },
+  {
+    "name": "Верхняя Чарчма",
+    "value": "verkhnyaya_charchma"
+  },
+  {
+    "name": "Верхняя Чиамахи",
+    "value": "verkhnyaya_chiamakhi"
+  },
+  {
+    "name": "Верхняя Хваршини",
+    "value": "verkhnyaya_khvarshini"
+  },
+  {
+    "name": "Вертиль",
+    "value": "vertil"
+  },
+  {
+    "name": "Вихли",
+    "value": "vikhli"
+  },
+  {
+    "name": "Викри",
+    "value": "vikri"
+  },
+  {
+    "name": "Виноградное",
+    "value": "vinogradnoe"
+  },
+  {
+    "name": "Вираты",
+    "value": "virati"
+  },
+  {
+    "name": "Вышеталовка",
+    "value": "vishetalovka"
+  },
+  {
+    "name": "Вицхи",
+    "value": "vitskhi"
+  },
+  {
+    "name": "Вперёд",
+    "value": "vperyod"
+  },
+  {
+    "name": "Ягдыг",
+    "value": "yagdig"
+  },
+  {
+    "name": "Ялак",
+    "value": "yalak"
+  },
+  {
+    "name": "Ялджух",
+    "value": "yaldzhukh"
+  },
+  {
+    "name": "Ямансу",
+    "value": "yamansu"
+  },
+  {
+    "name": "Янаша",
+    "value": "yanasha"
+  },
+  {
+    "name": "Янгикент",
+    "value": "yangikent"
+  },
+  {
+    "name": "Яраг",
+    "value": "yarag"
+  },
+  {
+    "name": "Яраг-Казмаляр",
+    "value": "yarag_kazmalyar"
+  },
+  {
+    "name": "Яргиль",
+    "value": "yargil"
+  },
+  {
+    "name": "Яркуг",
+    "value": "yarkug"
+  },
+  {
+    "name": "Ефимовка",
+    "value": "yefimovka"
+  },
+  {
+    "name": "Ершовка",
+    "value": "yershovka"
+  },
+  {
+    "name": "Ерси",
+    "value": "yersi"
+  },
+  {
+    "name": "Юхари-Архит",
+    "value": "yukhari_arkhit"
+  },
+  {
+    "name": "Юхари-Ярак",
+    "value": "yukhari_yarak"
+  },
+  {
+    "name": "Юхари-Захит",
+    "value": "yukhari_zakhit"
+  },
+  {
+    "name": "Юный Пахарь",
+    "value": "yunii_pakhar"
+  },
+  {
+    "name": "Юргулиг",
+    "value": "yurgulig"
+  },
+  {
+    "name": "Юрковка",
+    "value": "yurkovka"
+  },
+  {
+    "name": "Южно-Сухокумск",
+    "value": "yuzhno-sukhokumsk"
+  },
+  {
+    "name": "Южное",
+    "value": "yuzhnoe"
+  },
+  {
+    "name": "Загородный",
+    "value": "zagorodnii"
+  },
+  {
+    "name": "Захит",
+    "value": "zakhit"
+  },
+  {
+    "name": "Заната",
+    "value": "zanata"
+  },
+  {
+    "name": "Заречное",
+    "value": "zarechnoe"
+  },
+  {
+    "name": "Заря Коммуны",
+    "value": "zarya_kommuni"
+  },
+  {
+    "name": "Зехида",
+    "value": "zekhida"
+  },
+  {
+    "name": "Зеленоморское",
+    "value": "zelenomorskoe"
+  },
+  {
+    "name": "Зеликака",
+    "value": "zelikaka"
+  },
+  {
+    "name": "Жамсоры",
+    "value": "zhamsori"
+  },
+  {
+    "name": "Жажада",
+    "value": "zhazhada"
+  },
+  {
+    "name": "Зидьян",
+    "value": "zidyan"
+  },
+  {
+    "name": "Зидьян-Казмаляр",
+    "value": "zidyan_kazmalyar"
+  },
+  {
+    "name": "Зильбачи",
+    "value": "zilbachi"
+  },
+  {
+    "name": "Зильдик",
+    "value": "zildik"
+  },
+  {
+    "name": "Зильмукмахи",
+    "value": "zilmukmakhi"
+  },
+  {
+    "name": "Зило",
+    "value": "zilo"
+  },
+  {
+    "name": "Зирани",
+    "value": "zirani"
+  },
+  {
+    "name": "Зирдаг",
+    "value": "zirdag"
+  },
+  {
+    "name": "Зиуриб",
+    "value": "ziurib"
+  },
+  {
+    "name": "Зориотар",
+    "value": "zoriotar"
+  },
+  {
+    "name": "Зрых",
+    "value": "zrikh"
+  },
+  {
+    "name": "Зубанчи",
+    "value": "zubanchi"
+  },
+  {
+    "name": "Зубутли-Миатли",
+    "value": "zubutli_miatli"
+  }
+]
